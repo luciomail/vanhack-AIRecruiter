@@ -1,0 +1,935 @@
+10;Vancouver;35;Front-End Developer;1;Vanhack;260;css3;185;.net
+10;Vancouver;35;Front-End Developer;1;Vanhack;260;css3;1418;razor mvc
+10;Vancouver;35;Front-End Developer;1;Vanhack;260;css3;583;sass
+11;Vancouver;69;Mobile Java Developer;882;Jostle;5096;java;260;css3
+11;Vancouver;69;Mobile Java Developer;882;Jostle;5096;java;2556;mobile applications
+11;Vancouver;69;Mobile Java Developer;882;Jostle;5096;java;195;html5
+12;Vancouver;111;Senior Ruby on Rails Developer ;883;This Open Space;105;ruby on rails;145;linux
+12;Vancouver;111;Senior Ruby on Rails Developer ;883;This Open Space;105;ruby on rails;1827;postgresql
+12;Vancouver;111;Senior Ruby on Rails Developer ;883;This Open Space;105;ruby on rails;132;javascript
+12;Vancouver;111;Senior Ruby on Rails Developer ;883;This Open Space;105;ruby on rails;506;less / sass
+12;Vancouver;111;Senior Ruby on Rails Developer ;883;This Open Space;105;ruby on rails;5098;angular.js
+13;Vancouver;99;Senior Full Stack Developer;884;Thinkific;105;ruby on rails;2609;riot.js
+13;Vancouver;99;Senior Full Stack Developer;884;Thinkific;105;ruby on rails;1176;ember.js
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;1192;responsive design
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;260;css3
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;1749;jasminejs
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;195;html5
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;2611;liquid
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;2610;mochajs
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;2609;riot.js
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;936;ux
+14;Vancouver;96;Senior Front End Developer;881;Thinkific;132;javascript;1176;ember.js
+15;Vancouver;111;Senior Ruby on Rails Developer ;885;Wishpond;105;ruby on rails;5098;angular.js
+15;Vancouver;111;Senior Ruby on Rails Developer ;885;Wishpond;105;ruby on rails;64;elixir
+15;Vancouver;111;Senior Ruby on Rails Developer ;885;Wishpond;105;ruby on rails;360;mongodb
+15;Vancouver;111;Senior Ruby on Rails Developer ;885;Wishpond;105;ruby on rails;1452;my sql
+15;Vancouver;111;Senior Ruby on Rails Developer ;885;Wishpond;105;ruby on rails;738;devops
+18;Vancouver;8;Android Developer;569;HootSuite;99;android;2615;rxjava
+18;Vancouver;8;Android Developer;569;HootSuite;99;android;656;agile
+18;Vancouver;8;Android Developer;569;HootSuite;99;android;5096;java
+18;Vancouver;8;Android Developer;569;HootSuite;99;android;2616;kotlin
+18;Vancouver;8;Android Developer;569;HootSuite;99;android;2614;android api
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;103;sql
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;2617;algorithms
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;245;swift
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;133;python
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;5098;angular.js
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;677;ionic framework
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;344;node.js
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;105;ruby on rails
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;360;mongodb
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;976;react.js
+19;Vancouver;123;Software Developer, Full Stack;569;HootSuite;132;javascript;1255;rest apis
+21;Vancouver;55;Junior QA Developer;569;HootSuite;1390;quality assurance;5096;java
+21;Vancouver;55;Junior QA Developer;569;HootSuite;1390;quality assurance;5095;php
+21;Vancouver;55;Junior QA Developer;569;HootSuite;1390;quality assurance;2580;test case
+21;Vancouver;55;Junior QA Developer;569;HootSuite;1390;quality assurance;1590;selenium
+21;Vancouver;55;Junior QA Developer;569;HootSuite;1390;quality assurance;656;agile
+21;Vancouver;55;Junior QA Developer;569;HootSuite;1390;quality assurance;1870;requirement analysis
+22;Vancouver;116;Senior Software Developer, DevOps;569;HootSuite;738;devops;145;linux
+22;Vancouver;116;Senior Software Developer, DevOps;569;HootSuite;738;devops;1467;microservices
+22;Vancouver;116;Senior Software Developer, DevOps;569;HootSuite;738;devops;2618;mesos
+22;Vancouver;116;Senior Software Developer, DevOps;569;HootSuite;738;devops;2619;marathon
+22;Vancouver;116;Senior Software Developer, DevOps;569;HootSuite;738;devops;689;docker
+23;Vancouver;74;Polyglot Software Engineer;12;Axiom Zen;2163;back-end development;344;node.js
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;1452;my sql
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;1540;go lang
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;1901;cloud computing
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;1404;shell scripts
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;166;c++
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;5161;aws
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;105;ruby on rails
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;145;linux
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;734;jenkins
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;1427;django
+25;Vancouver;114;Senior Server Engineer;889;BANDAI NAMCO Studios Vancouver;185;.net;133;python
+27;Vancouver;127;Software Engineer;891;Predictable Revenue;105;ruby on rails;2208;ubuntu server
+27;Vancouver;127;Software Engineer;891;Predictable Revenue;105;ruby on rails;1333;scss
+27;Vancouver;127;Software Engineer;891;Predictable Revenue;105;ruby on rails;1336;nginx
+27;Vancouver;127;Software Engineer;891;Predictable Revenue;105;ruby on rails;2612;coffeescript
+27;Vancouver;127;Software Engineer;891;Predictable Revenue;105;ruby on rails;2630;haml
+27;Vancouver;127;Software Engineer;891;Predictable Revenue;105;ruby on rails;5098;angular.js
+27;Vancouver;127;Software Engineer;891;Predictable Revenue;105;ruby on rails;145;linux
+28;Santiago;59;Lead Developer;892;Work Ahead;132;javascript;5096;java
+28;Santiago;59;Lead Developer;892;Work Ahead;132;javascript;105;ruby on rails
+28;Santiago;59;Lead Developer;892;Work Ahead;132;javascript;5095;php
+29;Santiago;47;iOS Developer;893;Peep Tours;71;ios;2556;mobile applications
+29;Santiago;47;iOS Developer;893;Peep Tours;71;ios;245;swift
+30;New York;34;Front End Developer;890;Humblee;976;react.js;195;html5
+30;New York;34;Front End Developer;890;Humblee;976;react.js;196;bootstrap
+30;New York;34;Front End Developer;890;Humblee;976;react.js;260;css3
+31;New York;34;Front End Developer;890;Humblee;976;react.js;260;css3
+31;New York;34;Front End Developer;890;Humblee;976;react.js;195;html5
+31;New York;34;Front End Developer;890;Humblee;976;react.js;196;bootstrap
+32;Santiago;37;Full Stack Developer;894;Beavly;2718;meteorjs;344;node.js
+33;Santiago;30;Designer ;894;Beavly;1446;photoshop cs6;1653;illustrator cc
+33;Santiago;30;Designer ;894;Beavly;1446;photoshop cs6;116;design
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;108;ruby
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;5099;git
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;145;linux
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;105;ruby on rails
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;5097;jquery
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;2615;rxjava
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;5161;aws
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;666;clojure
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;5096;java
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;2724;lodash
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;2822;virtual-dom
+34;Vancouver;103;Senior Java Script Developer;8;Unbounce;132;javascript;541;scala
+35;Vancouver;93;Senior Developer - Rails App;284;Unbounce;105;ruby on rails;132;javascript
+35;Vancouver;93;Senior Developer - Rails App;284;Unbounce;105;ruby on rails;666;clojure
+35;Vancouver;93;Senior Developer - Rails App;284;Unbounce;105;ruby on rails;105;ruby on rails
+35;Vancouver;93;Senior Developer - Rails App;284;Unbounce;105;ruby on rails;5096;java
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2827;dynamo
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2828;terraform
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2825;flink
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2126;mapreduce
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;5161;aws
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;1980;etl
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;1452;my sql
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;689;docker
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2342;google cloud message
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2273;spark
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2824;storm
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2826;redshift
+36;Vancouver;90;Senior Data Engineering Developer;284;Unbounce;738;devops;2823;luigi
+37;Vancouver;91;Senior Database Administrator;240;PlentyOfFish (POF.com);103;sql;1743;backup
+37;Vancouver;91;Senior Database Administrator;240;PlentyOfFish (POF.com);103;sql;1880;dba
+37;Vancouver;91;Senior Database Administrator;240;PlentyOfFish (POF.com);103;sql;2832;t-sql
+37;Vancouver;91;Senior Database Administrator;240;PlentyOfFish (POF.com);103;sql;2063;nosql
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;5099;git
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;2836;storekit
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;245;swift
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;246;objective c
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;936;ux
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;2834;coreddata
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;1255;rest apis
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;2953;c#
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;2833;gcd
+38;Vancouver;47;iOS Developer;240;PlentyOfFish (POF.com);71;ios;2835;uikit
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;2063;nosql
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;2837;teamcity
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;1685;elastic search
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;734;jenkins
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;555;visual studio
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;2838;scripting
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;2839;roslyn
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;132;javascript
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;185;.net
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;133;python
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;1858;powershell
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;103;sql
+39;Vancouver;82;Release Engineer;240;PlentyOfFish (POF.com);2953;c#;5099;git
+40;Santiago;34;Front End Developer;899;Fallabella;132;javascript;1788;spanish
+40;Santiago;34;Front End Developer;899;Fallabella;132;javascript;568;css3 - (sass - stylus)
+40;Santiago;34;Front End Developer;899;Fallabella;132;javascript;195;html5
+40;Santiago;34;Front End Developer;899;Fallabella;132;javascript;976;react.js
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;114;asp.net
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;163;c
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;300;erp
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;185;.net
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;299;crm
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;103;sql
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;228;jsp
+41;Vancouver;46;Intermediate Java Developer;901;Traction on Demand;5096;java;2938;salesforce.com
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;936;ux
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;2943;visualforce
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;5098;angular.js
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;5097;jquery
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;2941;apex
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;301;rest
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;2944;managed packages
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;2942;batch classes
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;5099;git
+42;Vancouver;113;Senior Salesforce Developer;901;Traction on Demand;2938;salesforce.com;132;javascript
+44;Vancouver;25;Data Architect;901;Traction on Demand;103;sql;1980;etl
+44;Vancouver;25;Data Architect;901;Traction on Demand;103;sql;1941;bi
+45;Vancouver;56;Junior Software Developer;902;Cotuto;5098;angular.js;196;bootstrap
+45;Vancouver;56;Junior Software Developer;902;Cotuto;5098;angular.js;132;javascript
+45;Vancouver;56;Junior Software Developer;902;Cotuto;5098;angular.js;2355;jquery ajax
+45;Vancouver;56;Junior Software Developer;902;Cotuto;5098;angular.js;195;html5
+45;Vancouver;56;Junior Software Developer;902;Cotuto;5098;angular.js;103;sql
+46;Vancouver;128;Software Engineer - Mobile;903;CapCom;2953;c#;136;unity
+46;Vancouver;128;Software Engineer - Mobile;903;CapCom;2953;c#;1956;animation
+46;Vancouver;128;Software Engineer - Mobile;903;CapCom;2953;c#;2556;mobile applications
+47;Vancouver;105;Senior Level Designer;903;CapCom;1807;game design;2864;3d animation
+47;Vancouver;105;Senior Level Designer;903;CapCom;1807;game design;1629;unreal engine
+48;Vancouver;136;Technical Artist;903;CapCom;2864;3d animation;3025;motion builder
+48;Vancouver;136;Technical Artist;903;CapCom;2864;3d animation;366;maya
+48;Vancouver;136;Technical Artist;903;CapCom;2864;3d animation;133;python
+49;Vancouver;110;Senior Python Developer ;679;Eventbase Technology Inc.;133;python;1962;api
+49;Vancouver;110;Senior Python Developer ;679;Eventbase Technology Inc.;133;python;5099;git
+49;Vancouver;110;Senior Python Developer ;679;Eventbase Technology Inc.;133;python;656;agile
+50;Vancouver;34;Front End Developer;679;Eventbase Technology Inc.;132;javascript;1772;sqlite
+50;Vancouver;34;Front End Developer;679;Eventbase Technology Inc.;132;javascript;583;sass
+50;Vancouver;34;Front End Developer;679;Eventbase Technology Inc.;132;javascript;260;css3
+50;Vancouver;34;Front End Developer;679;Eventbase Technology Inc.;132;javascript;1452;my sql
+50;Vancouver;34;Front End Developer;679;Eventbase Technology Inc.;132;javascript;5098;angular.js
+51;Vancouver;58;Lead Android Mobile Developer;679;Eventbase Technology Inc.;99;android;103;sql
+51;Vancouver;58;Lead Android Mobile Developer;679;Eventbase Technology Inc.;99;android;2921;android app development
+52;Vancouver;77;Python Developer;679;Eventbase Technology Inc.;133;python;5099;git
+52;Vancouver;77;Python Developer;679;Eventbase Technology Inc.;133;python;2668;continous integration
+52;Vancouver;77;Python Developer;679;Eventbase Technology Inc.;133;python;1962;api
+52;Vancouver;77;Python Developer;679;Eventbase Technology Inc.;133;python;1982;integration services
+53;Estepona;53;Javascript Developer;905;IDB Mobile Technology ;132;javascript;145;linux
+53;Estepona;53;Javascript Developer;905;IDB Mobile Technology ;132;javascript;1452;my sql
+53;Estepona;53;Javascript Developer;905;IDB Mobile Technology ;132;javascript;2127;rabbit mq
+53;Estepona;53;Javascript Developer;905;IDB Mobile Technology ;132;javascript;344;node.js
+53;Estepona;53;Javascript Developer;905;IDB Mobile Technology ;132;javascript;2063;nosql
+53;Estepona;53;Javascript Developer;905;IDB Mobile Technology ;132;javascript;5161;aws
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;260;css3
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;196;bootstrap
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;626;maven
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;2785;rabbitmq
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;195;html5
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;151;spring
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;5161;aws
+54;Estepona;50;Java Developer;905;IDB Mobile Technology ;5096;java;588;j2ee
+57;Miami;8;Android Developer;906;CloudTask;99;android;2921;android app development
+58;Victoria;67;Magento Developer;907;Purpose Social;3205;Magento Developer;2332;ecommerce
+59;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;132;javascript
+59;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;5097;jquery
+59;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;156;uml
+59;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;453;ajax
+59;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;509;lamp
+59;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;2285;alfresco
+59;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;1452;my sql
+60;Kelowna;146;Web App Developer;911;Biznas;5098;angular.js;5099;git
+60;Kelowna;146;Web App Developer;911;Biznas;5098;angular.js;516;cordova
+60;Kelowna;146;Web App Developer;911;Biznas;5098;angular.js;1581;sass/css3
+60;Kelowna;146;Web App Developer;911;Biznas;5098;angular.js;1749;jasminejs
+60;Kelowna;146;Web App Developer;911;Biznas;5098;angular.js;515;phonegap
+61;Vancouver;115;Senior Software Developer, Android;569;HootSuite;99;android;3184;unit tests
+61;Vancouver;115;Senior Software Developer, Android;569;HootSuite;99;android;301;rest
+63;Vancouver;119;Senior Web Applications Developer - PHP;912;Advisor Websites;3180;drupal 8;195;html5
+63;Vancouver;119;Senior Web Applications Developer - PHP;912;Advisor Websites;3180;drupal 8;123;css 3
+63;Vancouver;119;Senior Web Applications Developer - PHP;912;Advisor Websites;3180;drupal 8;5095;php
+63;Vancouver;119;Senior Web Applications Developer - PHP;912;Advisor Websites;3180;drupal 8;1452;my sql
+65;Vancouver;22;C# Senior Web Developer;1;Vanhack;2953;c#;132;javascript
+65;Vancouver;22;C# Senior Web Developer;1;Vanhack;2953;c#;5097;jquery
+65;Vancouver;22;C# Senior Web Developer;1;Vanhack;2953;c#;185;.net
+66;Santiago;12;Back End Developer - REMOTE;915;prnarchitecture;5095;php;1452;my sql
+66;Santiago;12;Back End Developer - REMOTE;915;prnarchitecture;5095;php;195;html5
+66;Santiago;12;Back End Developer - REMOTE;915;prnarchitecture;5095;php;5097;jquery
+66;Santiago;12;Back End Developer - REMOTE;915;prnarchitecture;5095;php;132;javascript
+67;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;1452;my sql
+67;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;2285;alfresco
+67;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;132;javascript
+67;Vancouver;33;Drupal 8 Developer;886;Appnovation;3180;drupal 8;453;ajax
+68;Vancouver;24;CTO;916;Reach Social ;5098;angular.js;360;mongodb
+68;Vancouver;24;CTO;916;Reach Social ;5098;angular.js;344;node.js
+69;São Paulo;23;Country Manager - Brazil;917;World Tech Makers;413;marketing;1197;entrepreneurship
+69;São Paulo;23;Country Manager - Brazil;917;World Tech Makers;413;marketing;406;social media
+70;Vancouver;34;Front End Developer;918;Metalabs;976;react.js;2893;redux
+70;Vancouver;34;Front End Developer;918;Metalabs;976;react.js;132;javascript
+70;Vancouver;34;Front End Developer;918;Metalabs;976;react.js;956;unix
+71;Vancouver;21;C# - Job Test;1;Vanhack;2953;c#;185;.net
+72;Vancouver;51;Java Developer (Full Stack);919;Article;5096;java;5097;jquery
+72;Vancouver;51;Java Developer (Full Stack);919;Article;5096;java;260;css3
+72;Vancouver;51;Java Developer (Full Stack);919;Article;5096;java;1333;scss
+72;Vancouver;51;Java Developer (Full Stack);919;Article;5096;java;132;javascript
+72;Vancouver;51;Java Developer (Full Stack);919;Article;5096;java;976;react.js
+72;Vancouver;51;Java Developer (Full Stack);919;Article;5096;java;5098;angular.js
+72;Vancouver;51;Java Developer (Full Stack);919;Article;5096;java;133;python
+73;Vancouver;92;Senior Designer;919;Article;116;design;3287;creative suite
+76;Santiago;83;Ruby on Rails Developer;924;Magna Partners;105;ruby on rails;195;html5
+76;Santiago;83;Ruby on Rails Developer;924;Magna Partners;105;ruby on rails;132;javascript
+78;Montreal;144;VFX Artist;926;Eidos Studios;2864;3d animation;3305;3ds max
+78;Montreal;144;VFX Artist;926;Eidos Studios;2864;3d animation;3311;photoshop (beginner)
+78;Montreal;144;VFX Artist;926;Eidos Studios;2864;3d animation;366;maya
+83;Victoria;147;Web Developer;927;Monetize More;133;python;2061;flask
+83;Victoria;147;Web Developer;927;Monetize More;133;python;132;javascript
+83;Victoria;147;Web Developer;927;Monetize More;133;python;103;sql
+83;Victoria;147;Web Developer;927;Monetize More;133;python;5099;git
+83;Victoria;147;Web Developer;927;Monetize More;133;python;105;ruby on rails
+83;Victoria;147;Web Developer;927;Monetize More;133;python;145;linux
+83;Victoria;147;Web Developer;927;Monetize More;133;python;1404;shell scripts
+83;Victoria;147;Web Developer;927;Monetize More;133;python;1427;django
+84;Kitchener;66;Machine Learning Engineer;205;Thalmic Labs;2064;machine learning;133;python
+84;Kitchener;66;Machine Learning Engineer;205;Thalmic Labs;2064;machine learning;5099;git
+85;Kitchener;70;Modern C++ Software Engineer;205;Thalmic Labs;166;c++;2012;opencv
+85;Kitchener;70;Modern C++ Software Engineer;205;Thalmic Labs;166;c++;680;websocket
+85;Kitchener;70;Modern C++ Software Engineer;205;Thalmic Labs;166;c++;2953;c#
+85;Kitchener;70;Modern C++ Software Engineer;205;Thalmic Labs;166;c++;163;c
+85;Kitchener;70;Modern C++ Software Engineer;205;Thalmic Labs;166;c++;5099;git
+85;Kitchener;70;Modern C++ Software Engineer;205;Thalmic Labs;166;c++;2046;embedded devices
+85;Kitchener;70;Modern C++ Software Engineer;205;Thalmic Labs;166;c++;2048;qt
+86;Kitchener;129;Software Engineer, UX;205;Thalmic Labs;166;c++;2048;qt
+86;Kitchener;129;Software Engineer, UX;205;Thalmic Labs;166;c++;2838;scripting
+86;Kitchener;129;Software Engineer, UX;205;Thalmic Labs;166;c++;5096;java
+86;Kitchener;129;Software Engineer, UX;205;Thalmic Labs;166;c++;5099;git
+86;Kitchener;129;Software Engineer, UX;205;Thalmic Labs;166;c++;936;ux
+87;Kitchener;130;Software Engineer, Wearable Platform;205;Thalmic Labs;5096;java;145;linux
+87;Kitchener;130;Software Engineer, Wearable Platform;205;Thalmic Labs;5096;java;5099;git
+87;Kitchener;130;Software Engineer, Wearable Platform;205;Thalmic Labs;5096;java;2048;qt
+87;Kitchener;130;Software Engineer, Wearable Platform;205;Thalmic Labs;5096;java;956;unix
+88;Vancouver;100;Senior Games Programmer;835;Smoking Gun Interactive;166;c++;392;flash
+88;Vancouver;100;Senior Games Programmer;835;Smoking Gun Interactive;166;c++;5096;java
+88;Vancouver;100;Senior Games Programmer;835;Smoking Gun Interactive;166;c++;3405;xbox
+88;Vancouver;100;Senior Games Programmer;835;Smoking Gun Interactive;166;c++;2953;c#
+94;Vancouver;34;Front End Developer;1;Vanhack;260;css3;195;html5
+94;Vancouver;34;Front End Developer;1;Vanhack;260;css3;2592;mercurial
+94;Vancouver;34;Front End Developer;1;Vanhack;260;css3;555;visual studio
+94;Vancouver;34;Front End Developer;1;Vanhack;260;css3;2953;c#
+94;Vancouver;34;Front End Developer;1;Vanhack;260;css3;1418;razor mvc
+95;Vancouver;72;PHP developer;930;Pixilink Solutions Ltd.;5095;php;260;css3
+95;Vancouver;72;PHP developer;930;Pixilink Solutions Ltd.;5095;php;195;html5
+95;Vancouver;72;PHP developer;930;Pixilink Solutions Ltd.;5095;php;1081;smarty
+109;Lisbon;6;.NET Developer;1095;Farfetch;185;.net;5096;java
+109;Lisbon;6;.NET Developer;1095;Farfetch;185;.net;112;sql server
+109;Lisbon;6;.NET Developer;1095;Farfetch;185;.net;129;scrum
+109;Lisbon;6;.NET Developer;1095;Farfetch;185;.net;1572;asp.net-mvc
+109;Lisbon;6;.NET Developer;1095;Farfetch;185;.net;1151;soa
+109;Lisbon;6;.NET Developer;1095;Farfetch;185;.net;933;webapi
+118;Berlin;34;Front End Developer;1104;Newsletter2Go;5098;angular.js;5099;git
+118;Berlin;34;Front End Developer;1104;Newsletter2Go;5098;angular.js;1642;typescript
+118;Berlin;34;Front End Developer;1104;Newsletter2Go;5098;angular.js;2837;teamcity
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;1497;security awareness program
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;1717;redis
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;485;oop
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;4387;architectural patterns
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;4384;http
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;1417;restful api
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;100;tdd
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;2354;symfony 2
+140;Berlin;16;Backend Developer - PHP;1119;Lunchio;5095;php;208;postgresql
+142;Berlin;17;Backend Developer (Javascript);1120;Jodel;344;node.js;344;node.js
+142;Berlin;17;Backend Developer (Javascript);1120;Jodel;344;node.js;358;nodejs
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;2274;spark-sql
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;1685;elastic search
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;541;scala
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;103;sql
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;5096;java
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;133;python
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;603;apache
+145;Berlin;89;Senior Data Engineer;1122;Home24;1187;big data;5161;aws
+147;Berlin;54;Junior Data Engineer;1122;Home24;1187;big data;541;scala
+147;Berlin;54;Junior Data Engineer;1122;Home24;1187;big data;583;sass
+147;Berlin;54;Junior Data Engineer;1122;Home24;1187;big data;5096;java
+147;Berlin;54;Junior Data Engineer;1122;Home24;1187;big data;3385;ssis
+147;Berlin;54;Junior Data Engineer;1122;Home24;1187;big data;103;sql
+147;Berlin;54;Junior Data Engineer;1122;Home24;1187;big data;133;python
+151;Berlin;87;Search Engineer;1126;EyeEm;1685;elastic search;2939;solr
+151;Berlin;87;Search Engineer;1126;EyeEm;1685;elastic search;5096;java
+151;Berlin;87;Search Engineer;1126;EyeEm;1685;elastic search;133;python
+151;Berlin;87;Search Engineer;1126;EyeEm;1685;elastic search;1944;elasticsearch
+151;Berlin;87;Search Engineer;1126;EyeEm;1685;elastic search;541;scala
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;1961;cassandra
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;3211;kafka
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;5161;aws
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;2650;cloudera
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;2063;nosql
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;3352;hive
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;360;mongodb
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;4556;apache spark
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;3440;pyhton
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;1219;qlikview
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;1907;tableau
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;3165;test-driven development (tdd)
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;3465;postgres sql
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;485;oop
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;1717;redis
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;1452;my sql
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;3581;impala
+155;Berlin;20;Big Data Engineers (m/f);1103;HelloFresh;1187;big data;3348;hortonworks
+157;Berlin;14;Backend (PHP, NodeJS, GO) Engineer;1103;HelloFresh;5095;php;344;node.js
+157;Berlin;14;Backend (PHP, NodeJS, GO) Engineer;1103;HelloFresh;5095;php;738;devops
+157;Berlin;14;Backend (PHP, NodeJS, GO) Engineer;1103;HelloFresh;5095;php;1540;go lang
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;260;css3
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;485;oop
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;246;objective c
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;245;swift
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;195;html5
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;956;unix
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;132;javascript
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;1417;restful api
+158;Berlin;47;iOS Developer;1103;HelloFresh;71;ios;5099;git
+159;Berlin;8;Android Developer;1103;HelloFresh;99;android;2518;oauth2
+159;Berlin;8;Android Developer;1103;HelloFresh;99;android;5096;java
+159;Berlin;8;Android Developer;1103;HelloFresh;99;android;384;design patterns
+159;Berlin;8;Android Developer;1103;HelloFresh;99;android;5099;git
+159;Berlin;8;Android Developer;1103;HelloFresh;99;android;956;unix
+159;Berlin;8;Android Developer;1103;HelloFresh;99;android;3487;unit testing
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;1827;postgresql
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;5096;java
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;145;linux
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;541;scala
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;5161;aws
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;5095;php
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;1452;my sql
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;133;python
+160;Berlin;32;DevOps Professional;1103;HelloFresh;738;devops;689;docker
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;3461;numpy
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;4356;relational database
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;3511;pandas
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;3556;matalab
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;2893;redux
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;344;node.js
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;976;react.js
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;1427;django
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;103;sql
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;5096;java
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;5161;aws
+162;Berlin;110;Senior Python Developer ;1128;Kayak;133;python;1185;r programming
+163;Berlin;118;Senior Software Engineer (f/m);1122;Home24;1540;go lang;4616;delivery processes
+163;Berlin;118;Senior Software Engineer (f/m);1122;Home24;1540;go lang;2668;continous integration
+163;Berlin;118;Senior Software Engineer (f/m);1122;Home24;1540;go lang;2545;test automation
+163;Berlin;118;Senior Software Engineer (f/m);1122;Home24;1540;go lang;689;docker
+169;Berlin;62;Lead Ruby on Rails Developer;1131;99chairs;105;ruby on rails;2364;react native
+169;Berlin;62;Lead Ruby on Rails Developer;1131;99chairs;105;ruby on rails;5098;angular.js
+169;Berlin;62;Lead Ruby on Rails Developer;1131;99chairs;105;ruby on rails;976;react.js
+169;Berlin;62;Lead Ruby on Rails Developer;1131;99chairs;105;ruby on rails;4326;angular 2
+169;Berlin;62;Lead Ruby on Rails Developer;1131;99chairs;105;ruby on rails;697;react
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;132;javascript
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;344;node.js
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;105;ruby on rails
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;5099;git
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;301;rest
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;2720;karma
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;956;unix
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;411;seo
+170;Berlin;81;ReactJS Developer;1131;99chairs;976;react.js;1749;jasminejs
+171;Berlin;18;Backend Software Engineer;1131;99chairs;1528;object orientation;2148;code review
+171;Berlin;18;Backend Software Engineer;1131;99chairs;1528;object orientation;1962;api
+173;Vancouver;85;Salesforce Developer;48;Canada Drives;2394;salesforce;900;flex
+173;Vancouver;85;Salesforce Developer;48;Canada Drives;2394;salesforce;2941;apex
+175;Vancouver;148;Yii2 Developer;949;Mais Software;3560;yii2;5095;php
+176;Vancouver;138;Technical Customer Support;881;Thinkific;1895;customer support;260;css3
+176;Vancouver;138;Technical Customer Support;881;Thinkific;1895;customer support;2627;troubleshooting
+176;Vancouver;138;Technical Customer Support;881;Thinkific;1895;customer support;195;html5
+177;Barcelona;101;Senior Golang Developer;1134;Typeform;5095;php;344;node.js
+177;Barcelona;101;Senior Golang Developer;1134;Typeform;5095;php;2063;nosql
+177;Barcelona;101;Senior Golang Developer;1134;Typeform;5095;php;103;sql
+177;Barcelona;101;Senior Golang Developer;1134;Typeform;5095;php;1540;go lang
+178;Barcelona;126;Software Development Manager;1134;Typeform;1412;team leadership;2563;team management
+178;Barcelona;126;Software Development Manager;1134;Typeform;1412;team leadership;2411;product management
+178;Barcelona;126;Software Development Manager;1134;Typeform;1412;team leadership;637;software engineering
+179;Barcelona;98;Senior Frontend Developer;1134;Typeform;132;javascript;3182;es6
+179;Barcelona;98;Senior Frontend Developer;1134;Typeform;132;javascript;976;react.js
+179;Barcelona;98;Senior Frontend Developer;1134;Typeform;132;javascript;3058;saas
+180;Berlin;88;Senior Android Developer;1135;Dubsmash;99;android;1635;leadership
+181;Berlin;102;Senior iOS Developer;1135;Dubsmash;71;ios;245;swift
+181;Berlin;102;Senior iOS Developer;1135;Dubsmash;71;ios;651;objective-c
+181;Berlin;102;Senior iOS Developer;1135;Dubsmash;71;ios;1635;leadership
+182;Dublin;68;Marketing Operations Lead;1136;Phorest;413;marketing;3256;content creator
+183;Dublin;5; Java Developer;1137;Accenture;5096;java;111;oracle 11g
+183;Dublin;5; Java Developer;1137;Accenture;5096;java;1150;jee
+183;Dublin;5; Java Developer;1137;Accenture;5096;java;103;sql
+183;Dublin;5; Java Developer;1137;Accenture;5096;java;423;xml
+183;Dublin;5; Java Developer;1137;Accenture;5096;java;1630;jdbc
+183;Dublin;5; Java Developer;1137;Accenture;5096;java;588;j2ee
+183;Dublin;5; Java Developer;1137;Accenture;5096;java;195;html5
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;3583;sqoop
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;5161;aws
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;2273;spark
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;2824;storm
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;2826;redshift
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;4413;data mart
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;1338;hadoop
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;1980;etl
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;1941;bi
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;102;azure
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;3348;hortonworks
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;3352;hive
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;3353;zookeeper
+184;Dublin;4; CIO Big Data Developer;1137;Accenture;1187;big data;1685;elastic search
+185;Berlin;61;Lead Python Developer;1135;Dubsmash;3440;pyhton;2668;continous integration
+185;Berlin;61;Lead Python Developer;1135;Dubsmash;3440;pyhton;3070;restful
+185;Berlin;61;Lead Python Developer;1135;Dubsmash;3440;pyhton;129;scrum
+185;Berlin;61;Lead Python Developer;1135;Dubsmash;3440;pyhton;1427;django
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;464;adobe photoshop
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;463;adobe illustrator
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;2404;bemcss
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;5097;jquery
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;260;css3
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;3204;d3.js
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;132;javascript
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;942;sketch
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;4817;carto
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;4818;smacss
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;4819;acss
+186;Berlin;147;Web Developer;1138;Homeday;195;html5;2409;oocss
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;129;scrum
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;1417;restful api
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;123;css 3
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;4378;casperjs
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;583;sass
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;435;less
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;4822;leaflet
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;4823;carto
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;385;grunt
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;1176;ember.js
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;1077;bower
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;1076;npm
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;1070;kanban
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;3204;d3.js
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;979;gulp
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;976;react.js
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;3436;phantomjs
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;2404;bemcss
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;2409;oocss
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;1392;vue.js
+187;Berlin;36;Frontend Engineer;1138;Homeday;132;javascript;4326;angular 2
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;1717;redis
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;1417;restful api
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;129;scrum
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;100;tdd
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;263;agile development methodology
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;1452;my sql
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;2289;bdd
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;5161;aws
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;1070;kanban
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;1685;elastic search
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;2798;nosql databases
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;208;postgresql
+188;Berlin;83;Ruby on Rails Developer;1138;Homeday;105;ruby on rails;1961;cassandra
+189;Calgary;73;PHP Programmer & Security Expert;1139;StoryThat;5095;php;1452;my sql
+189;Calgary;73;PHP Programmer & Security Expert;1139;StoryThat;5095;php;2928;symphony
+189;Calgary;73;PHP Programmer & Security Expert;1139;StoryThat;5095;php;5098;angular.js
+190;Calgary;9;Angular JS Programmer;1139;StoryThat;5098;angular.js;195;html5
+190;Calgary;9;Angular JS Programmer;1139;StoryThat;5098;angular.js;132;javascript
+190;Calgary;9;Angular JS Programmer;1139;StoryThat;5098;angular.js;2928;symphony
+190;Calgary;9;Angular JS Programmer;1139;StoryThat;5098;angular.js;4326;angular 2
+190;Calgary;9;Angular JS Programmer;1139;StoryThat;5098;angular.js;1452;my sql
+190;Calgary;9;Angular JS Programmer;1139;StoryThat;5098;angular.js;260;css3
+190;Calgary;9;Angular JS Programmer;1139;StoryThat;5098;angular.js;5095;php
+191;Vienna;161;iOS Developer;1140;Mimo;651;objective-c;495;restful web service
+191;Vienna;161;iOS Developer;1140;Mimo;651;objective-c;250;ios development
+191;Vienna;161;iOS Developer;1140;Mimo;651;objective-c;245;swift
+192;Vienna;15;Backend Developer;1140;Mimo;185;.net;185;.net
+193;Vienna;147;Web Developer;1140;Mimo;4326;angular 2;1642;typescript
+194;Dublin;3; Analytics Senior Manager;1137;Accenture;1890;artificial intelligence;1864;management
+194;Dublin;3; Analytics Senior Manager;1137;Accenture;1890;artificial intelligence;133;python
+194;Dublin;3; Analytics Senior Manager;1137;Accenture;1890;artificial intelligence;166;c++
+194;Dublin;3; Analytics Senior Manager;1137;Accenture;1890;artificial intelligence;1185;r programming
+194;Dublin;3; Analytics Senior Manager;1137;Accenture;1890;artificial intelligence;3275;modeling
+194;Dublin;3; Analytics Senior Manager;1137;Accenture;1890;artificial intelligence;5096;java
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;656;agile
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;5098;angular.js
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;132;javascript
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;198;json
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;677;ionic framework
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;2973;team foundation server
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;555;visual studio
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;516;cordova
+195;Dublin;135;Technical Architect;1137;Accenture;4192;technical architect;1026;cloud
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;5161;aws
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;453;ajax
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;325;automation
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;3182;es6
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;5099;git
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;1642;typescript
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;656;agile
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;198;json
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;583;sass
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;4326;angular 2
+196;Dublin;34;Front End Developer;1137;Accenture;132;javascript;260;css3
+197;Dublin;7;AI Analytics Manager;1137;Accenture;1890;artificial intelligence;1188;data science
+197;Dublin;7;AI Analytics Manager;1137;Accenture;1890;artificial intelligence;133;python
+197;Dublin;7;AI Analytics Manager;1137;Accenture;1890;artificial intelligence;5096;java
+197;Dublin;7;AI Analytics Manager;1137;Accenture;1890;artificial intelligence;1377;r for statistical computing
+198;Dublin;86;SCRUM Master;1137;Accenture;129;scrum;1070;kanban
+198;Dublin;86;SCRUM Master;1137;Accenture;129;scrum;656;agile
+198;Dublin;86;SCRUM Master;1137;Accenture;129;scrum;2316;xp programming
+199;Vancouver;47;iOS Developer;550;Kickstarter;71;ios;2835;uikit
+199;Vancouver;47;iOS Developer;550;Kickstarter;71;ios;2399;cocoa
+200;Vancouver;8;Android Developer;550;Kickstarter;99;android;2615;rxjava
+200;Vancouver;8;Android Developer;550;Kickstarter;99;android;384;design patterns
+200;Vancouver;8;Android Developer;550;Kickstarter;99;android;5096;java
+201;Vancouver;30;Designer ;550;Kickstarter;116;design;2867;experience design
+201;Vancouver;30;Designer ;550;Kickstarter;116;design;1955;product design
+201;Vancouver;30;Designer ;550;Kickstarter;116;design;1954;visual design
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;5098;angular.js
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;1685;elastic search
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;2020;dropwizard
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;100;tdd
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;3862;kubernetes
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;3441;bigquery
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;2668;continous integration
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;689;docker
+202;Berlin;24;CTO;1141;Zenhdetails;5096;java;1467;microservices
+203;Vancouver;109;Senior PHP MVC Web Application Developer;1143;tei web solutions;5095;php;301;rest
+203;Vancouver;109;Senior PHP MVC Web Application Developer;1143;tei web solutions;5095;php;302;soap
+203;Vancouver;109;Senior PHP MVC Web Application Developer;1143;tei web solutions;5095;php;105;ruby on rails
+203;Vancouver;109;Senior PHP MVC Web Application Developer;1143;tei web solutions;5095;php;1594;ui/ux design
+204;Vancouver;42;Graphic Designer;1143;tei web solutions;1594;ui/ux design;195;html5
+204;Vancouver;42;Graphic Designer;1143;tei web solutions;1594;ui/ux design;1539;e-commerce
+204;Vancouver;42;Graphic Designer;1143;tei web solutions;1594;ui/ux design;529;"retail; google adwords; google analytics; google adsense; facebook adsense; social media; market intelligence"
+204;Vancouver;42;Graphic Designer;1143;tei web solutions;1594;ui/ux design;1206;pos systems
+205;Dublin;95;Senior Embedded Linux Software Engineer;1144;Ircona;145;linux;2949;buildroot
+205;Dublin;95;Senior Embedded Linux Software Engineer;1144;Ircona;145;linux;4608;embedded linux
+205;Dublin;95;Senior Embedded Linux Software Engineer;1144;Ircona;145;linux;163;c
+205;Dublin;95;Senior Embedded Linux Software Engineer;1144;Ircona;145;linux;2245;x86-64 assembly
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;651;objective-c
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;4496;graphql
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;245;swift
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;506;less / sass
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;943;a/b tests
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;5096;java
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;132;javascript
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;344;node.js
+206;Berlin;134;Sr. React Developer;1145;Massagio;976;react.js;2214;stylus
+207;Vancouver;28;Data Specialist;901;Traction on Demand;103;sql;1980;etl
+207;Vancouver;28;Data Specialist;901;Traction on Demand;103;sql;4171;etl using ssis (sql server 2014 / package)
+208;Vancouver;25;Data Architect;901;Traction on Demand;1980;etl;4996;boomi
+208;Vancouver;25;Data Architect;901;Traction on Demand;1980;etl;4997;birst
+208;Vancouver;25;Data Architect;901;Traction on Demand;1980;etl;4998;salesforce analytics
+208;Vancouver;25;Data Architect;901;Traction on Demand;1980;etl;3385;ssis
+208;Vancouver;25;Data Architect;901;Traction on Demand;1980;etl;1907;tableau
+209;Berlin;84;Ruby On Rails Engineer;1146;vehiculum;105;ruby on rails;1070;kanban
+209;Berlin;84;Ruby On Rails Engineer;1146;vehiculum;105;ruby on rails;103;sql
+209;Berlin;84;Ruby On Rails Engineer;1146;vehiculum;105;ruby on rails;4766;automated testing
+209;Berlin;84;Ruby On Rails Engineer;1146;vehiculum;105;ruby on rails;200;oo
+209;Berlin;84;Ruby On Rails Engineer;1146;vehiculum;105;ruby on rails;1718;german
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;2072;perl
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;1685;elastic search
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;1717;redis
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;1452;my sql
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;1338;hadoop
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;943;a/b tests
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;4384;http
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;166;c++
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;163;c
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;5096;java
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;133;python
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;132;javascript
+210;Amsterdam;122;Software Developer;1147;Booking.com;3168;backend;5099;git
+211;Amsterdam;34;Front End Developer;1147;Booking.com;132;javascript;943;a/b tests
+211;Amsterdam;34;Front End Developer;1147;Booking.com;132;javascript;195;html5
+211;Amsterdam;34;Front End Developer;1147;Booking.com;132;javascript;260;css3
+211;Amsterdam;34;Front End Developer;1147;Booking.com;132;javascript;5097;jquery
+212;Amsterdam;142;UX Designer;1147;Booking.com;116;design;195;html5
+212;Amsterdam;142;UX Designer;1147;Booking.com;116;design;260;css3
+212;Amsterdam;142;UX Designer;1147;Booking.com;116;design;4303;photoshop
+212;Amsterdam;142;UX Designer;1147;Booking.com;116;design;1435;keynote
+212;Amsterdam;142;UX Designer;1147;Booking.com;116;design;393;fireworks
+214;Vancouver;34;Front End Developer;1150;Macho Bear;5098;angular.js;5097;jquery
+214;Vancouver;34;Front End Developer;1150;Macho Bear;5098;angular.js;1417;restful api
+214;Vancouver;34;Front End Developer;1150;Macho Bear;5098;angular.js;2212;hapi.js
+214;Vancouver;34;Front End Developer;1150;Macho Bear;5098;angular.js;751;express
+214;Vancouver;34;Front End Developer;1150;Macho Bear;5098;angular.js;195;html5
+217;Vancouver;50;Java Developer;1152;World West;5096;java;423;xml
+217;Vancouver;50;Java Developer;1152;World West;5096;java;526;jboss
+217;Vancouver;50;Java Developer;1152;World West;5096;java;1528;object orientation
+217;Vancouver;50;Java Developer;1152;World West;5096;java;195;html5
+217;Vancouver;50;Java Developer;1152;World West;5096;java;103;sql
+217;Vancouver;50;Java Developer;1152;World West;5096;java;1335;mariadb
+217;Vancouver;50;Java Developer;1152;World West;5096;java;228;jsp
+217;Vancouver;50;Java Developer;1152;World West;5096;java;625;servlets
+217;Vancouver;50;Java Developer;1152;World West;5096;java;588;j2ee
+217;Vancouver;50;Java Developer;1152;World West;5096;java;260;css3
+217;Vancouver;50;Java Developer;1152;World West;5096;java;302;soap
+218;Berlin;47;;1153;Gastrofix;651;objective-c;100;tdd
+218;Berlin;47;;1153;Gastrofix;651;objective-c;198;json
+218;Berlin;47;;1153;Gastrofix;651;objective-c;4199;core data
+218;Berlin;47;;1153;Gastrofix;651;objective-c;4086;multithreading
+218;Berlin;47;;1153;Gastrofix;651;objective-c;71;ios
+218;Berlin;47;;1153;Gastrofix;651;objective-c;1255;rest apis
+219;Cologne;149;;1154;Telexiom AG;1551;alm;2493;uft
+219;Cologne;149;;1154;Telexiom AG;1551;alm;1718;german
+219;Cologne;149;;1154;Telexiom AG;1551;alm;1590;selenium
+219;Cologne;149;;1154;Telexiom AG;1551;alm;729;soapui
+220;Cologne;150;;1154;Telexiom AG;5096;java;581;svn
+220;Cologne;150;;1154;Telexiom AG;5096;java;626;maven
+220;Cologne;150;;1154;Telexiom AG;5096;java;1718;german
+220;Cologne;150;;1154;Telexiom AG;5096;java;1824;ant
+220;Cologne;150;;1154;Telexiom AG;5096;java;239;eclipse
+221;Cologne;151;;1154;Telexiom AG;2165;business analysis;1718;german
+222;Cologne;152;;1154;Telexiom AG;1511;security operations;1718;german
+222;Cologne;152;;1154;Telexiom AG;1511;security operations;1565;tcp/ip
+223;Cologne;153;;1154;Telexiom AG;1865;data mining;3556;matalab
+223;Cologne;153;;1154;Telexiom AG;1865;data mining;1185;r programming
+223;Cologne;153;;1154;Telexiom AG;1865;data mining;133;python
+223;Cologne;153;;1154;Telexiom AG;1865;data mining;2064;machine learning
+223;Cologne;153;;1154;Telexiom AG;1865;data mining;1718;german
+223;Cologne;153;;1154;Telexiom AG;1865;data mining;4297;forecasting
+224;Stuttgart;154;;1155;Internetstores;5095;php;485;oop
+224;Stuttgart;154;;1155;Internetstores;5095;php;2354;symfony 2
+225;Stuttgart;34;;1155;Internetstores;132;javascript;260;css3
+225;Stuttgart;34;;1155;Internetstores;132;javascript;195;html5
+226;Stuttgart;155;;1155;Internetstores;1916;project management professional;1539;e-commerce
+226;Stuttgart;155;;1155;Internetstores;1916;project management professional;1718;german
+227;Stuttgart;156;;1155;Internetstores;5095;php;485;oop
+227;Stuttgart;156;;1155;Internetstores;5095;php;1412;team leadership
+227;Stuttgart;156;;1155;Internetstores;5095;php;719;jira
+227;Stuttgart;156;;1155;Internetstores;5095;php;1539;e-commerce
+227;Stuttgart;156;;1155;Internetstores;5095;php;1822;extjs
+227;Stuttgart;156;;1155;Internetstores;5095;php;3544;symfony
+227;Stuttgart;156;;1155;Internetstores;5095;php;145;linux
+227;Stuttgart;156;;1155;Internetstores;5095;php;143;zend framework
+227;Stuttgart;156;;1155;Internetstores;5095;php;129;scrum
+227;Stuttgart;156;;1155;Internetstores;5095;php;5099;git
+228;Stuttgart;157;;1155;Internetstores;5095;php;1473;mysql database
+228;Stuttgart;157;;1155;Internetstores;5095;php;143;zend framework
+228;Stuttgart;157;;1155;Internetstores;5095;php;1335;mariadb
+228;Stuttgart;157;;1155;Internetstores;5095;php;1962;api
+228;Stuttgart;157;;1155;Internetstores;5095;php;485;oop
+228;Stuttgart;157;;1155;Internetstores;5095;php;129;scrum
+228;Stuttgart;157;;1155;Internetstores;5095;php;5099;git
+228;Stuttgart;157;;1155;Internetstores;5095;php;1539;e-commerce
+228;Stuttgart;157;;1155;Internetstores;5095;php;2063;nosql
+228;Stuttgart;157;;1155;Internetstores;5095;php;1822;extjs
+228;Stuttgart;157;;1155;Internetstores;5095;php;691;vagrant
+229;Stuttgart;158;;1155;Internetstores;5095;php;145;linux
+229;Stuttgart;158;;1155;Internetstores;5095;php;1539;e-commerce
+229;Stuttgart;158;;1155;Internetstores;5095;php;2063;nosql
+229;Stuttgart;158;;1155;Internetstores;5095;php;3544;symfony
+229;Stuttgart;158;;1155;Internetstores;5095;php;691;vagrant
+229;Stuttgart;158;;1155;Internetstores;5095;php;5223;rdbms
+229;Stuttgart;158;;1155;Internetstores;5095;php;5099;git
+230;Stuttgart;159;;1155;Internetstores;132;javascript;260;css3
+230;Stuttgart;159;;1155;Internetstores;132;javascript;344;node.js
+230;Stuttgart;159;;1155;Internetstores;132;javascript;2718;meteorjs
+230;Stuttgart;159;;1155;Internetstores;132;javascript;1594;ui/ux design
+230;Stuttgart;159;;1155;Internetstores;132;javascript;195;html5
+230;Stuttgart;159;;1155;Internetstores;132;javascript;516;cordova
+230;Stuttgart;159;;1155;Internetstores;132;javascript;515;phonegap
+231;Berlin;160;;1145;Massagio;105;ruby on rails;133;python
+231;Berlin;160;;1145;Massagio;105;ruby on rails;145;linux
+231;Berlin;160;;1145;Massagio;105;ruby on rails;103;sql
+231;Berlin;160;;1145;Massagio;105;ruby on rails;738;devops
+231;Berlin;160;;1145;Massagio;105;ruby on rails;2063;nosql
+231;Berlin;160;;1145;Massagio;105;ruby on rails;5161;aws
+231;Berlin;160;;1145;Massagio;105;ruby on rails;3470;c c++
+231;Berlin;160;;1145;Massagio;105;ruby on rails;188;mvc
+231;Berlin;160;;1145;Massagio;105;ruby on rails;5099;git
+231;Berlin;160;;1145;Massagio;105;ruby on rails;4496;graphql
+231;Berlin;160;;1145;Massagio;105;ruby on rails;344;node.js
+231;Berlin;160;;1145;Massagio;105;ruby on rails;4766;automated testing
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;656;agile
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;2620;capistrano
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;65;js
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;5161;aws
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;976;react.js
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;583;sass
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;2893;redux
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;738;devops
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;208;postgresql
+232;Berlin;162;;1156;Dentolo;105;ruby on rails;579;github
+233;Berlin;163;;1156;Dentolo;105;ruby on rails;3717;babeljs
+233;Berlin;163;;1156;Dentolo;105;ruby on rails;583;sass
+233;Berlin;163;;1156;Dentolo;105;ruby on rails;976;react.js
+233;Berlin;163;;1156;Dentolo;105;ruby on rails;2893;redux
+233;Berlin;163;;1156;Dentolo;105;ruby on rails;260;css3
+233;Berlin;163;;1156;Dentolo;105;ruby on rails;132;javascript
+233;Berlin;163;;1156;Dentolo;105;ruby on rails;195;html5
+234;Vancouver;88;;240;PlentyOfFish (POF.com);99;android;3409;material design
+234;Vancouver;88;;240;PlentyOfFish (POF.com);99;android;5096;java
+234;Vancouver;88;;240;PlentyOfFish (POF.com);99;android;5099;git
+234;Vancouver;88;;240;PlentyOfFish (POF.com);99;android;246;objective c
+234;Vancouver;88;;240;PlentyOfFish (POF.com);99;android;195;html5
+235;Dublin;31;;1157;Zendesk;738;devops;1641;centos
+235;Dublin;31;;1157;Zendesk;738;devops;1336;nginx
+235;Dublin;31;;1157;Zendesk;738;devops;1685;elastic search
+235;Dublin;31;;1157;Zendesk;738;devops;541;scala
+235;Dublin;31;;1157;Zendesk;738;devops;508;linux / ubuntu
+235;Dublin;31;;1157;Zendesk;738;devops;105;ruby on rails
+235;Dublin;31;;1157;Zendesk;738;devops;689;docker
+235;Dublin;31;;1157;Zendesk;738;devops;1752;chef
+235;Dublin;31;;1157;Zendesk;738;devops;3263;puppet
+235;Dublin;31;;1157;Zendesk;738;devops;1540;go lang
+235;Dublin;31;;1157;Zendesk;738;devops;5161;aws
+235;Dublin;31;;1157;Zendesk;738;devops;145;linux
+235;Dublin;31;;1157;Zendesk;738;devops;1961;cassandra
+236;Vancouver;164;;1158;Zenefits;2411;product management;3760;fintech
+237;Dublin;165;;1159;Digit Gaming;133;python;656;agile
+237;Dublin;165;;1159;Digit Gaming;133;python;4384;http
+237;Dublin;165;;1159;Digit Gaming;133;python;123;css 3
+237;Dublin;165;;1159;Digit Gaming;133;python;3206;html/html5
+237;Dublin;165;;1159;Digit Gaming;133;python;2785;rabbitmq
+237;Dublin;165;;1159;Digit Gaming;133;python;2061;flask
+237;Dublin;165;;1159;Digit Gaming;133;python;3464;websockets
+237;Dublin;165;;1159;Digit Gaming;133;python;5161;aws
+237;Dublin;165;;1159;Digit Gaming;133;python;2314;tornado
+237;Dublin;165;;1159;Digit Gaming;133;python;132;javascript
+237;Dublin;165;;1159;Digit Gaming;133;python;689;docker
+237;Dublin;165;;1159;Digit Gaming;133;python;1565;tcp/ip
+237;Dublin;165;;1159;Digit Gaming;133;python;1717;redis
+238;Dublin;166;;1159;Digit Gaming;133;python;734;jenkins
+238;Dublin;166;;1159;Digit Gaming;133;python;1752;chef
+238;Dublin;166;;1159;Digit Gaming;133;python;5099;git
+238;Dublin;166;;1159;Digit Gaming;133;python;136;unity
+238;Dublin;166;;1159;Digit Gaming;133;python;3263;puppet
+238;Dublin;166;;1159;Digit Gaming;133;python;4766;automated testing
+238;Dublin;166;;1159;Digit Gaming;133;python;1699;gitlab
+238;Dublin;166;;1159;Digit Gaming;133;python;1025;bash
+239;Vancouver;167;;884;Thinkific;132;javascript;4766;automated testing
+239;Vancouver;167;;884;Thinkific;132;javascript;1590;selenium
+239;Vancouver;167;;884;Thinkific;132;javascript;1191;trello
+239;Vancouver;167;;884;Thinkific;132;javascript;1749;jasminejs
+239;Vancouver;167;;884;Thinkific;132;javascript;719;jira
+239;Vancouver;167;;884;Thinkific;132;javascript;2197;cucumber
+240;Vancouver;31;;881;Thinkific;1348;phyton;1540;go lang
+240;Vancouver;31;;881;Thinkific;1348;phyton;344;node.js
+240;Vancouver;31;;881;Thinkific;1348;phyton;3263;puppet
+240;Vancouver;31;;881;Thinkific;1348;phyton;5161;aws
+240;Vancouver;31;;881;Thinkific;1348;phyton;1752;chef
+240;Vancouver;31;;881;Thinkific;1348;phyton;105;ruby on rails
+240;Vancouver;31;;881;Thinkific;1348;phyton;1685;elastic search
+240;Vancouver;31;;881;Thinkific;1348;phyton;522;postgres
+240;Vancouver;31;;881;Thinkific;1348;phyton;1336;nginx
+240;Vancouver;31;;881;Thinkific;1348;phyton;689;docker
+240;Vancouver;31;;881;Thinkific;1348;phyton;734;jenkins
+240;Vancouver;31;;881;Thinkific;1348;phyton;4211;shell
+240;Vancouver;31;;881;Thinkific;1348;phyton;1717;redis
+240;Vancouver;31;;881;Thinkific;1348;phyton;145;linux
+240;Vancouver;31;;881;Thinkific;1348;phyton;690;ansible
+241;Vancouver;168;;881;Thinkific;132;javascript;2609;riot.js
+241;Vancouver;168;;881;Thinkific;132;javascript;4368;html/ html 05
+241;Vancouver;168;;881;Thinkific;132;javascript;1073;css/css3
+241;Vancouver;168;;881;Thinkific;132;javascript;1176;ember.js
+242;Berlin;72;;1104;Newsletter2Go;5095;php;302;soap
+242;Berlin;72;;1104;Newsletter2Go;5095;php;485;oop
+242;Berlin;72;;1104;Newsletter2Go;5095;php;198;json
+242;Berlin;72;;1104;Newsletter2Go;5095;php;1473;mysql database
+242;Berlin;72;;1104;Newsletter2Go;5095;php;1718;german
+242;Berlin;72;;1104;Newsletter2Go;5095;php;5099;git
+242;Berlin;72;;1104;Newsletter2Go;5095;php;301;rest
+243;Berlin;15;;1160;Eurostaff;185;.net;2790;couchbase
+243;Berlin;15;;1160;Eurostaff;185;.net;273;mssql server
+243;Berlin;15;;1160;Eurostaff;185;.net;5099;git
+243;Berlin;15;;1160;Eurostaff;185;.net;2798;nosql databases
+243;Berlin;15;;1160;Eurostaff;185;.net;129;scrum
+243;Berlin;15;;1160;Eurostaff;185;.net;301;rest
+243;Berlin;15;;1160;Eurostaff;185;.net;198;json
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;5097;jquery
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;1749;jasminejs
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;3436;phantomjs
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;385;grunt
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;260;css3
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;195;html5
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;4303;photoshop
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;1642;typescript
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;344;node.js
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;1255;rest apis
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;1076;npm
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;198;json
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;132;javascript
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;583;sass
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;5099;git
+244;Berlin;36;;1160;Eurostaff;4326;angular 2;979;gulp
+245;Berlin;91;;1160;Eurostaff;103;sql;273;mssql server
+245;Berlin;91;;1160;Eurostaff;103;sql;1442;data warehouse
+245;Berlin;91;;1160;Eurostaff;103;sql;1187;big data
+245;Berlin;91;;1160;Eurostaff;103;sql;2798;nosql databases
+245;Berlin;91;;1160;Eurostaff;103;sql;1718;german
+245;Berlin;91;;1160;Eurostaff;103;sql;1473;mysql database
+246;Berlin;170;;1160;Eurostaff;5096;java;1468;software architecture
+246;Berlin;170;;1160;Eurostaff;5096;java;585;junit
+246;Berlin;170;;1160;Eurostaff;5096;java;360;mongodb
+246;Berlin;170;;1160;Eurostaff;5096;java;344;node.js
+246;Berlin;170;;1160;Eurostaff;5096;java;1552;continuous integration
+246;Berlin;170;;1160;Eurostaff;5096;java;2315;mockito
+246;Berlin;170;;1160;Eurostaff;5096;java;151;spring
+246;Berlin;170;;1160;Eurostaff;5096;java;105;ruby on rails
+247;Berlin;171;;1161;Itembase;5096;java;603;apache
+247;Berlin;171;;1161;Itembase;5096;java;2208;ubuntu server
+247;Berlin;171;;1161;Itembase;5096;java;360;mongodb
+247;Berlin;171;;1161;Itembase;5096;java;689;docker
+247;Berlin;171;;1161;Itembase;5096;java;1699;gitlab
+247;Berlin;171;;1161;Itembase;5096;java;2454;jetty
+247;Berlin;171;;1161;Itembase;5096;java;1796;java 8
+247;Berlin;171;;1161;Itembase;5096;java;1717;redis
+248;Berlin;120;;1160;Eurostaff;5096;java;3726;software designer
+248;Berlin;120;;1160;Eurostaff;5096;java;544;spring mvc
+248;Berlin;120;;1160;Eurostaff;5096;java;129;scrum
+248;Berlin;120;;1160;Eurostaff;5096;java;3314;structs
+248;Berlin;120;;1160;Eurostaff;5096;java;229;hibernate
+248;Berlin;120;;1160;Eurostaff;5096;java;1718;german
+248;Berlin;120;;1160;Eurostaff;5096;java;228;jsp
+249;Berlin;25;;1160;Eurostaff;1148;data base;1718;german
+249;Berlin;25;;1160;Eurostaff;1148;data base;2976;scope management
+249;Berlin;25;;1160;Eurostaff;1148;data base;129;scrum
+249;Berlin;25;;1160;Eurostaff;1148;data base;1442;data warehouse
+250;Berlin;31;;1160;Eurostaff;738;devops;1342;nexus
+250;Berlin;31;;1160;Eurostaff;738;devops;626;maven
+250;Berlin;31;;1160;Eurostaff;738;devops;129;scrum
+250;Berlin;31;;1160;Eurostaff;738;devops;2837;teamcity
+250;Berlin;31;;1160;Eurostaff;738;devops;1718;german
+250;Berlin;31;;1160;Eurostaff;738;devops;734;jenkins
+251;Berlin;78;;1160;Eurostaff;1362;software testing;1713;sencha (extjs)
+251;Berlin;78;;1160;Eurostaff;1362;software testing;1718;german
+251;Berlin;78;;1160;Eurostaff;1362;software testing;129;scrum
+252;Berlin;103;;1160;Eurostaff;1713;sencha (extjs);1718;german
+252;Berlin;103;;1160;Eurostaff;1713;sencha (extjs);1257;user interface
+252;Berlin;103;;1160;Eurostaff;1713;sencha (extjs);936;ux
+253;Toronto;172;;1162;Gurulink;5096;java;1796;java 8
+253;Toronto;172;;1162;Gurulink;5096;java;4326;angular 2
+253;Toronto;172;;1162;Gurulink;5096;java;541;scala
+253;Toronto;172;;1162;Gurulink;5096;java;689;docker
+253;Toronto;172;;1162;Gurulink;5096;java;360;mongodb
+253;Toronto;172;;1162;Gurulink;5096;java;1685;elastic search
+254;Toronto;173;;1162;Gurulink;145;linux;2072;perl
+254;Toronto;173;;1162;Gurulink;145;linux;104;oracle
+254;Toronto;173;;1162;Gurulink;145;linux;1025;bash
+254;Toronto;173;;1162;Gurulink;145;linux;690;ansible
+254;Toronto;173;;1162;Gurulink;145;linux;1473;mysql database
+254;Toronto;173;;1162;Gurulink;145;linux;956;unix
+254;Toronto;173;;1162;Gurulink;145;linux;603;apache
+254;Toronto;173;;1162;Gurulink;145;linux;1752;chef
+254;Toronto;173;;1162;Gurulink;145;linux;3263;puppet
+254;Toronto;173;;1162;Gurulink;145;linux;610;tomcat
+255;Toronto;174;;1162;Gurulink;1528;object orientation;453;ajax
+255;Toronto;174;;1162;Gurulink;1528;object orientation;198;json
+255;Toronto;174;;1162;Gurulink;1528;object orientation;5096;java
+255;Toronto;174;;1162;Gurulink;1528;object orientation;301;rest
+255;Toronto;174;;1162;Gurulink;1528;object orientation;5097;jquery
+255;Toronto;174;;1162;Gurulink;1528;object orientation;5098;angular.js
+256;Toronto;5;;1162;Gurulink;5096;java;1151;soa
+256;Toronto;5;;1162;Gurulink;5096;java;151;spring
+256;Toronto;5;;1162;Gurulink;5096;java;156;uml
+256;Toronto;5;;1162;Gurulink;5096;java;132;javascript
+256;Toronto;5;;1162;Gurulink;5096;java;608;java ee
+257;Berlin;175;;1160;Eurostaff;2165;business analysis;1718;german
+257;Berlin;175;;1160;Eurostaff;2165;business analysis;129;scrum
+257;Berlin;175;;1160;Eurostaff;2165;business analysis;1992;user acceptance testing
+258;Berlin;88;;1160;Eurostaff;3208;android developer;1718;german
+258;Berlin;88;;1160;Eurostaff;3208;android developer;943;a/b tests
+258;Berlin;88;;1160;Eurostaff;3208;android developer;1962;api
+258;Berlin;88;;1160;Eurostaff;3208;android developer;1451;java (android)
+259;New York;176;;1164;DirectIQ;4523;customer service;3380;email marketing
+259;New York;176;;1164;DirectIQ;4523;customer service;3553;writing
+259;New York;176;;1164;DirectIQ;4523;customer service;2030;customer management
+259;New York;176;;1164;DirectIQ;4523;customer service;2229;customer experience
+260;Zurich;177;;1167;Nectar Financial;132;javascript;979;gulp
+260;Zurich;177;;1167;Nectar Financial;132;javascript;515;phonegap
+260;Zurich;177;;1167;Nectar Financial;132;javascript;5098;angular.js
+261;Zurich;178;;1167;Nectar Financial;344;node.js;1642;typescript
+261;Zurich;178;;1167;Nectar Financial;344;node.js;689;docker
+261;Zurich;178;;1167;Nectar Financial;344;node.js;1782;amazon web services
+261;Zurich;178;;1167;Nectar Financial;344;node.js;751;express
+261;Zurich;178;;1167;Nectar Financial;344;node.js;102;azure
+261;Zurich;178;;1167;Nectar Financial;344;node.js;3182;es6
+262;Zurich;34;;1167;Nectar Financial;5098;angular.js;344;node.js
+262;Zurich;34;;1167;Nectar Financial;5098;angular.js;979;gulp
+263;Basel;15;;1163;Creadi;344;node.js;2063;nosql
+263;Basel;15;;1163;Creadi;344;node.js;123;css 3
+263;Basel;15;;1163;Creadi;344;node.js;103;sql
+263;Basel;15;;1163;Creadi;344;node.js;132;javascript
+263;Basel;15;;1163;Creadi;344;node.js;583;sass
+263;Basel;15;;1163;Creadi;344;node.js;1962;api
+263;Basel;15;;1163;Creadi;344;node.js;100;tdd
+264;Basel;179;;1163;Creadi;2556;mobile applications;71;ios
+264;Basel;179;;1163;Creadi;2556;mobile applications;99;android
+264;Basel;179;;1163;Creadi;2556;mobile applications;5099;git

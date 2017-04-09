@@ -1,0 +1,546 @@
+1;Tiago;CTO;3;C#, jQuery;;4636;novo skill de teste
+1;Tiago;CTO;3;C#, jQuery;;104;oracle
+1;Tiago;CTO;3;C#, jQuery;;132;javascript
+1;Tiago;CTO;3;C#, jQuery;;101;ddd
+1;Tiago;CTO;3;C#, jQuery;;102;azure
+1;Tiago;CTO;3;C#, jQuery;;4635;nashorn
+1;Tiago;CTO;3;C#, jQuery;;2953;c#
+1;Tiago;CTO;3;C#, jQuery;;185;.net
+7;Nino;;3;;;2953;c#
+7;Nino;;3;;;5098;angular.js
+7;Nino;;3;;;195;html5
+7;Nino;;3;;;103;sql
+7;Nino;;3;;;132;javascript
+7;Nino;;3;;;185;.net
+7;Nino;;3;;;344;node.js
+7;Nino;;3;;;260;css3
+11;Alexandre;Results-driven Software Engineer;4;;;1467;microservices
+11;Alexandre;Results-driven Software Engineer;4;;;636;software development
+11;Alexandre;Results-driven Software Engineer;4;;;625;servlets
+11;Alexandre;Results-driven Software Engineer;4;;;1150;jee
+11;Alexandre;Results-driven Software Engineer;4;;;1417;restful api
+11;Alexandre;Results-driven Software Engineer;4;;;689;docker
+11;Alexandre;Results-driven Software Engineer;4;;;1468;software architecture
+11;Alexandre;Results-driven Software Engineer;4;;;656;agile
+11;Alexandre;Results-driven Software Engineer;4;;;1469;jpa 2
+11;Alexandre;Results-driven Software Engineer;4;;;132;javascript
+11;Alexandre;Results-driven Software Engineer;4;;;229;hibernate
+11;Alexandre;Results-driven Software Engineer;4;;;228;jsp
+11;Alexandre;Results-driven Software Engineer;4;;;151;spring
+15;Andreia;UI/UX Designer & Illustrator;3;;;1616;illustration
+15;Andreia;UI/UX Designer & Illustrator;3;;;3029;digital painting
+15;Andreia;UI/UX Designer & Illustrator;3;;;254;web design
+15;Andreia;UI/UX Designer & Illustrator;3;;;3030;ux / ui design
+15;Andreia;UI/UX Designer & Illustrator;3;;;369;2d
+15;Andreia;UI/UX Designer & Illustrator;3;;;3031;character art
+15;Andreia;UI/UX Designer & Illustrator;3;;;1691;artist
+23;Bruno;Art Director - UI/UX Designer;2;;;1579;ui design
+28;Cleyton;Entrepreneur, Customer Success, Developer;3;;;2473;customer success
+28;Cleyton;Entrepreneur, Customer Success, Developer;3;;;132;javascript
+28;Cleyton;Entrepreneur, Customer Success, Developer;3;;;2953;c#
+28;Cleyton;Entrepreneur, Customer Success, Developer;3;;;133;python
+28;Cleyton;Entrepreneur, Customer Success, Developer;3;;;105;ruby on rails
+32;DAVID;Senior Software Developer;4;;;112;sql server
+32;DAVID;Senior Software Developer;4;;;5096;java
+32;DAVID;Senior Software Developer;4;;;129;scrum
+32;DAVID;Senior Software Developer;4;;;132;javascript
+32;DAVID;Senior Software Developer;4;;;270;asp.net mvc
+32;DAVID;Senior Software Developer;4;;;260;css3
+32;DAVID;Senior Software Developer;4;;;5097;jquery
+32;DAVID;Senior Software Developer;4;;;2953;c#
+32;DAVID;Senior Software Developer;4;;;5098;angular.js
+32;DAVID;Senior Software Developer;4;;;195;html5
+32;DAVID;Senior Software Developer;4;;;1254;sharepoint
+32;DAVID;Senior Software Developer;4;;;185;.net
+33;Andreza;Digital Marketing Strategist ;3;;;1816;inbound marketing
+33;Andreza;Digital Marketing Strategist ;3;;;1809;internet marketing
+33;Andreza;Digital Marketing Strategist ;3;;;1815;content marketing
+33;Andreza;Digital Marketing Strategist ;3;;;1811;e-mail marketing
+33;Andreza;Digital Marketing Strategist ;3;;;121;marketing and digital marketing plan and management
+33;Andreza;Digital Marketing Strategist ;3;;;411;seo
+33;Andreza;Digital Marketing Strategist ;3;;;1813;product launch: planning and execution
+33;Andreza;Digital Marketing Strategist ;3;;;1814;facebook marketing
+33;Andreza;Digital Marketing Strategist ;3;;;1812;digital marketing strategies
+33;Andreza;Digital Marketing Strategist ;3;;;1674;copywriting
+33;Andreza;Digital Marketing Strategist ;3;;;1724;digital media
+33;Andreza;Digital Marketing Strategist ;3;;;2242;lead generation
+33;Andreza;Digital Marketing Strategist ;3;;;406;social media
+33;Andreza;Digital Marketing Strategist ;3;;;1022;digital marketing
+46;Guilherme;Sofware Architect;4;;;5096;java
+46;Guilherme;Sofware Architect;4;;;2092;distributed systems development
+46;Guilherme;Sofware Architect;4;;;2363;graph databases
+46;Guilherme;Sofware Architect;4;;;2364;react native
+46;Guilherme;Sofware Architect;4;;;1962;api
+46;Guilherme;Sofware Architect;4;;;151;spring
+46;Guilherme;Sofware Architect;4;;;1150;jee
+46;Guilherme;Sofware Architect;4;;;689;docker
+48;Guilherme;Digital Marketing Specialist;4;;;1197;entrepreneurship
+48;Guilherme;Digital Marketing Specialist;4;;;943;a/b tests
+48;Guilherme;Digital Marketing Specialist;4;;;141;wordpress
+48;Guilherme;Digital Marketing Specialist;4;;;2036;magento
+48;Guilherme;Digital Marketing Specialist;4;;;1974;fast learner
+48;Guilherme;Digital Marketing Specialist;4;;;1900;events management
+48;Guilherme;Digital Marketing Specialist;4;;;1895;customer support
+48;Guilherme;Digital Marketing Specialist;4;;;1814;facebook marketing
+48;Guilherme;Digital Marketing Specialist;4;;;1812;digital marketing strategies
+48;Guilherme;Digital Marketing Specialist;4;;;1780;b2b
+48;Guilherme;Digital Marketing Specialist;4;;;405;facebook ads
+48;Guilherme;Digital Marketing Specialist;4;;;410;google analytics
+48;Guilherme;Digital Marketing Specialist;4;;;411;seo
+48;Guilherme;Digital Marketing Specialist;4;;;1626;google adwords
+48;Guilherme;Digital Marketing Specialist;4;;;1607;business intelligence
+48;Guilherme;Digital Marketing Specialist;4;;;1539;e-commerce
+48;Guilherme;Digital Marketing Specialist;4;;;1446;photoshop cs6
+48;Guilherme;Digital Marketing Specialist;4;;;1435;keynote
+48;Guilherme;Digital Marketing Specialist;4;;;1327;image manipulation
+55;Jim Bruno;Businessmen and Programmer;3;;;1898;strategic planning
+55;Jim Bruno;Businessmen and Programmer;3;;;5095;php
+55;Jim Bruno;Businessmen and Programmer;3;;;1842;negotiation
+55;Jim Bruno;Businessmen and Programmer;3;;;1838;strategy
+55;Jim Bruno;Businessmen and Programmer;3;;;336;network administrator
+55;Jim Bruno;Businessmen and Programmer;3;;;163;c
+55;Jim Bruno;Businessmen and Programmer;3;;;1452;my sql
+55;Jim Bruno;Businessmen and Programmer;3;;;1599;gamification
+55;Jim Bruno;Businessmen and Programmer;3;;;428;analysis
+55;Jim Bruno;Businessmen and Programmer;3;;;1648;open source
+55;Jim Bruno;Businessmen and Programmer;3;;;1186;business metrics
+55;Jim Bruno;Businessmen and Programmer;3;;;2568;project planning
+55;Jim Bruno;Businessmen and Programmer;3;;;2563;team management
+55;Jim Bruno;Businessmen and Programmer;3;;;2561;it strategy
+55;Jim Bruno;Businessmen and Programmer;3;;;2529;consulting
+55;Jim Bruno;Businessmen and Programmer;3;;;1635;leadership
+55;Jim Bruno;Businessmen and Programmer;3;;;4161;business development
+55;Jim Bruno;Businessmen and Programmer;3;;;5098;angular.js
+55;Jim Bruno;Businessmen and Programmer;3;;;4356;relational database
+55;Jim Bruno;Businessmen and Programmer;3;;;3935;aviation
+55;Jim Bruno;Businessmen and Programmer;3;;;2439;teaching
+55;Jim Bruno;Businessmen and Programmer;3;;;3783;decision making
+55;Jim Bruno;Businessmen and Programmer;3;;;145;linux
+55;Jim Bruno;Businessmen and Programmer;3;;;4523;customer service
+55;Jim Bruno;Businessmen and Programmer;3;;;1647;innovation
+55;Jim Bruno;Businessmen and Programmer;3;;;3446;network programming
+55;Jim Bruno;Businessmen and Programmer;3;;;4529;logistics
+55;Jim Bruno;Businessmen and Programmer;3;;;4622;ms dynamics ax
+55;Jim Bruno;Businessmen and Programmer;3;;;105;ruby on rails
+55;Jim Bruno;Businessmen and Programmer;3;;;4624;out of the box
+55;Jim Bruno;Businessmen and Programmer;3;;;2230;freebsd
+55;Jim Bruno;Businessmen and Programmer;3;;;4625;crisis management
+55;Jim Bruno;Businessmen and Programmer;3;;;3382;sales and client relationship
+55;Jim Bruno;Businessmen and Programmer;3;;;2165;business analysis
+55;Jim Bruno;Businessmen and Programmer;3;;;4626;business travel
+55;Jim Bruno;Businessmen and Programmer;3;;;3381;business management
+55;Jim Bruno;Businessmen and Programmer;3;;;99;android
+55;Jim Bruno;Businessmen and Programmer;3;;;2028;operations management
+55;Jim Bruno;Businessmen and Programmer;3;;;1988;process analysis
+55;Jim Bruno;Businessmen and Programmer;3;;;1412;team leadership
+55;Jim Bruno;Businessmen and Programmer;3;;;4627;inventory management
+55;Jim Bruno;Businessmen and Programmer;3;;;4628;pipefy
+55;Jim Bruno;Businessmen and Programmer;3;;;4218;sales strategy
+55;Jim Bruno;Businessmen and Programmer;3;;;166;c++
+55;Jim Bruno;Businessmen and Programmer;3;;;5096;java
+55;Jim Bruno;Businessmen and Programmer;3;;;471;business administration
+55;Jim Bruno;Businessmen and Programmer;3;;;4093;trainer
+55;Jim Bruno;Businessmen and Programmer;3;;;1921;system architect
+55;Jim Bruno;Businessmen and Programmer;3;;;1901;cloud computing
+55;Jim Bruno;Businessmen and Programmer;3;;;5099;git
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;423;xml
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;453;ajax
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;2682;django - beginner
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;196;bootstrap
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;198;json
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;3330;angularjs - basic
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;195;html5
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;132;javascript
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;1417;restful api
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;302;soap
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;691;vagrant
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;979;gulp
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;5095;php
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;1393;composer and npm
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;105;ruby on rails
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;2909;wsdl
+61;Valter;PHP, Zend, Laravel5, JavaScript, HTML5, AngularJS;3;;;1194;laravel 5
+65;Leonardo;Java Software Developer;3;;;5096;java
+65;Leonardo;Java Software Developer;3;;;227;jsf
+65;Leonardo;Java Software Developer;3;;;1211;sql (mysql, postgresql)
+65;Leonardo;Java Software Developer;3;;;132;javascript
+65;Leonardo;Java Software Developer;3;;;672;grails
+67;Manoel;Software Engineer;3;;;646;subversion
+67;Manoel;Software Engineer;3;;;104;oracle
+67;Manoel;Software Engineer;3;;;5096;java
+67;Manoel;Software Engineer;3;;;2809;domain driven design
+67;Manoel;Software Engineer;3;;;1528;object orientation
+67;Manoel;Software Engineer;3;;;543;spring framework
+67;Manoel;Software Engineer;3;;;132;javascript
+67;Manoel;Software Engineer;3;;;103;sql
+67;Manoel;Software Engineer;3;;;5098;angular.js
+67;Manoel;Software Engineer;3;;;195;html5
+67;Manoel;Software Engineer;3;;;188;mvc
+67;Manoel;Software Engineer;3;;;260;css3
+67;Manoel;Software Engineer;3;;;5099;git
+67;Manoel;Software Engineer;3;;;384;design patterns
+70;Marcos Augusto;Software Developer;3;;;3206;html/html5
+70;Marcos Augusto;Software Developer;3;;;196;bootstrap
+70;Marcos Augusto;Software Developer;3;;;5098;angular.js
+70;Marcos Augusto;Software Developer;3;;;132;javascript
+70;Marcos Augusto;Software Developer;3;;;1425;c#( asp.net, wpf and windows forms)
+70;Marcos Augusto;Software Developer;3;;;112;sql server
+70;Marcos Augusto;Software Developer;3;;;62;c#
+70;Marcos Augusto;Software Developer;3;;;677;ionic framework
+70;Marcos Augusto;Software Developer;3;;;1311;sql and oracle pl/sql developer
+70;Marcos Augusto;Software Developer;3;;;516;cordova
+70;Marcos Augusto;Software Developer;3;;;5097;jquery
+70;Marcos Augusto;Software Developer;3;;;2953;c#
+74;Paulo;;3;;;198;json
+74;Paulo;;3;;;426;visual basic
+74;Paulo;;3;;;907;windows and linux servers
+74;Paulo;;3;;;2364;react native
+74;Paulo;;3;;;2456;microsoft certified system engineer
+74;Paulo;;3;;;2796;sap certified consultant
+74;Paulo;;3;;;2795;assembler
+74;Paulo;;3;;;522;postgres
+74;Paulo;;3;;;104;oracle
+74;Paulo;;3;;;1452;my sql
+74;Paulo;;3;;;105;ruby on rails
+74;Paulo;;3;;;301;rest
+74;Paulo;;3;;;5097;jquery
+74;Paulo;;3;;;260;css3
+74;Paulo;;3;;;132;javascript
+74;Paulo;;3;;;2091;object oriented analysis and design
+74;Paulo;;3;;;195;html5
+74;Paulo;;3;;;2226;cobol
+79;Rafael;Support Analyst;4;;;1599;gamification
+79;Rafael;Support Analyst;4;;;4706;support web aplication
+79;Rafael;Support Analyst;4;;;4705;repair on mac os x servers
+79;Rafael;Support Analyst;4;;;946;data analysis
+79;Rafael;Support Analyst;4;;;4704;software technical support analyst
+79;Rafael;Support Analyst;4;;;3570;system analyst
+79;Rafael;Support Analyst;4;;;4488;programming
+79;Rafael;Support Analyst;4;;;2629;support analyst
+79;Rafael;Support Analyst;4;;;5096;java
+83;Tiago;;3;;;1773;asp.net web api
+83;Tiago;;3;;;103;sql
+83;Tiago;;3;;;112;sql server
+83;Tiago;;3;;;132;javascript
+83;Tiago;;3;;;185;.net
+83;Tiago;;3;;;195;html5
+83;Tiago;;3;;;196;bootstrap
+83;Tiago;;3;;;198;json
+83;Tiago;;3;;;260;css3
+83;Tiago;;3;;;270;asp.net mvc
+83;Tiago;;3;;;360;mongodb
+83;Tiago;;3;;;384;design patterns
+83;Tiago;;3;;;423;xml
+83;Tiago;;3;;;557;entity framework
+83;Tiago;;3;;;581;svn
+83;Tiago;;3;;;976;react.js
+83;Tiago;;3;;;1151;soa
+83;Tiago;;3;;;2953;c#
+83;Tiago;;3;;;5097;jquery
+83;Tiago;;3;;;5098;angular.js
+85;Wlainer;Analyst Programmer;3;;;231;jpa
+85;Wlainer;Analyst Programmer;3;;;3182;es6
+85;Wlainer;Analyst Programmer;3;;;151;spring
+85;Wlainer;Analyst Programmer;3;;;228;jsp
+85;Wlainer;Analyst Programmer;3;;;5096;java
+85;Wlainer;Analyst Programmer;3;;;229;hibernate
+85;Wlainer;Analyst Programmer;3;;;5098;angular.js
+85;Wlainer;Analyst Programmer;3;;;1150;jee
+85;Wlainer;Analyst Programmer;3;;;260;css3
+85;Wlainer;Analyst Programmer;3;;;132;javascript
+85;Wlainer;Analyst Programmer;3;;;344;node.js
+85;Wlainer;Analyst Programmer;3;;;103;sql
+85;Wlainer;Analyst Programmer;3;;;4326;angular 2
+85;Wlainer;Analyst Programmer;3;;;195;html5
+85;Wlainer;Analyst Programmer;3;;;626;maven
+85;Wlainer;Analyst Programmer;3;;;230;ejb
+85;Wlainer;Analyst Programmer;3;;;1698;express.js
+85;Wlainer;Analyst Programmer;3;;;976;react.js
+92;Giulianna;Digital Marketing Specialist;4;;;2859;blogging
+92;Giulianna;Digital Marketing Specialist;4;;;406;social media
+92;Giulianna;Digital Marketing Specialist;4;;;1812;digital marketing strategies
+92;Giulianna;Digital Marketing Specialist;4;;;3681;content strategy
+92;Giulianna;Digital Marketing Specialist;4;;;1022;digital marketing
+92;Giulianna;Digital Marketing Specialist;4;;;1674;copywriting
+93;Leandro;Systems Analyst;4;;;656;agile
+93;Leandro;Systems Analyst;4;;;129;scrum
+93;Leandro;Systems Analyst;4;;;2580;test case
+93;Leandro;Systems Analyst;4;;;1359;rup, requisite analysis
+93;Leandro;Systems Analyst;4;;;1362;software testing
+93;Leandro;Systems Analyst;4;;;132;javascript
+93;Leandro;Systems Analyst;4;;;2608;use case
+93;Leandro;Systems Analyst;4;;;709;test planning and test script
+93;Leandro;Systems Analyst;4;;;2953;c#
+93;Leandro;Systems Analyst;4;;;914;ms office
+93;Leandro;Systems Analyst;4;;;637;software engineering
+93;Leandro;Systems Analyst;4;;;581;svn
+93;Leandro;Systems Analyst;4;;;195;html5
+93;Leandro;Systems Analyst;4;;;1881;ms project
+93;Leandro;Systems Analyst;4;;;1870;requirement analysis
+93;Leandro;Systems Analyst;4;;;2495;test management
+93;Leandro;Systems Analyst;4;;;1622;photoshop cc
+93;Leandro;Systems Analyst;4;;;2545;test automation
+93;Leandro;Systems Analyst;4;;;5096;java
+93;Leandro;Systems Analyst;4;;;1390;quality assurance
+93;Leandro;Systems Analyst;4;;;1070;kanban
+93;Leandro;Systems Analyst;4;;;945;user stories
+93;Leandro;Systems Analyst;4;;;1905;software configuration management
+93;Leandro;Systems Analyst;4;;;398;acrobat
+93;Leandro;Systems Analyst;4;;;260;css3
+93;Leandro;Systems Analyst;4;;;1184;agile project management
+98;Raphael;Front End Developer;2;;;2953;c#
+98;Raphael;Front End Developer;2;;;1972;html, css, sass, jquery, ajax
+98;Raphael;Front End Developer;2;;;119;graphic design
+98;Raphael;Front End Developer;2;;;5095;php
+98;Raphael;Front End Developer;2;;;1175;backbone.js
+98;Raphael;Front End Developer;2;;;129;scrum
+98;Raphael;Front End Developer;2;;;1261;adobe  illustrator
+98;Raphael;Front End Developer;2;;;1391;less and sass
+98;Raphael;Front End Developer;2;;;1446;photoshop cs6
+98;Raphael;Front End Developer;2;;;1460;front-end web development
+98;Raphael;Front End Developer;2;;;579;github
+98;Raphael;Front End Developer;2;;;1583;adobe dreamweaver
+98;Raphael;Front End Developer;2;;;5099;git
+98;Raphael;Front End Developer;2;;;411;seo
+98;Raphael;Front End Developer;2;;;2556;mobile applications
+98;Raphael;Front End Developer;2;;;285;mvc 4
+98;Raphael;Front End Developer;2;;;272;codeigniter
+98;Raphael;Front End Developer;2;;;2405;"grunt; gulp"
+98;Raphael;Front End Developer;2;;;2355;jquery ajax
+98;Raphael;Front End Developer;2;;;260;css3
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;5096;java
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1255;rest apis
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;133;python
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;646;subversion
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;5095;php
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1194;laravel 5
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;156;uml
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;709;test planning and test script
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1452;my sql
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;542;play framework
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;166;c++
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1924;h2 database
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;581;svn
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1417;restful api
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;579;github
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;142;laravel
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;495;restful web service
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1983;phpunit
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1986;regression testing
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1985;facebook graph api
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1969;sublime text
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;5099;git
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;585;junit
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1984;dropbox api
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1393;composer and npm
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;208;postgresql
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;240;netbeans
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1699;gitlab
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;183;testing
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;141;wordpress
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;1366;bpmn
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;301;rest
+99;Geraldo;Java back-end Developer and PHP Developer;4;;;190;webservices
+106;Felipe;Embedded Systems Computer Engineer;3;;;336;network administrator
+106;Felipe;Embedded Systems Computer Engineer;3;;;924;network security
+106;Felipe;Embedded Systems Computer Engineer;3;;;163;c
+106;Felipe;Embedded Systems Computer Engineer;3;;;166;c++
+106;Felipe;Embedded Systems Computer Engineer;3;;;168;c for microcontroller
+106;Felipe;Embedded Systems Computer Engineer;3;;;174;hardware
+106;Felipe;Embedded Systems Computer Engineer;3;;;1916;project management professional
+106;Felipe;Embedded Systems Computer Engineer;3;;;2205;network infrastructure
+106;Felipe;Embedded Systems Computer Engineer;3;;;2328;automation projects
+106;Felipe;Embedded Systems Computer Engineer;3;;;145;linux
+106;Felipe;Embedded Systems Computer Engineer;3;;;3241;firmware development
+106;Felipe;Embedded Systems Computer Engineer;3;;;3240;wireless embedded systems
+106;Felipe;Embedded Systems Computer Engineer;3;;;3239;embedded systems
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;1635;leadership
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;3381;business management
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;3872;agile and kanban process
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;1439;project manager
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;3691;oriented object
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;3170;scrum master certified
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;719;jira
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;1594;ui/ux design
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;121;marketing and digital marketing plan and management
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;3804;people management
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;4162;basecamp
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;4161;business development
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;2097;agile coach
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;4089;lean mindset
+107;Luiz;Scrum Master (PSM) / Project Management ;2;;;2096;scrum master
+113;Decio;Graph/UI Designer;2;;;1584;logo design
+113;Decio;Graph/UI Designer;2;;;942;sketch
+113;Decio;Graph/UI Designer;2;;;583;sass
+113;Decio;Graph/UI Designer;2;;;1579;ui design
+113;Decio;Graph/UI Designer;2;;;1580;icon design
+113;Decio;Graph/UI Designer;2;;;1585;branding & identity
+113;Decio;Graph/UI Designer;2;;;1616;illustration
+113;Decio;Graph/UI Designer;2;;;1622;photoshop cc
+113;Decio;Graph/UI Designer;2;;;435;less
+113;Decio;Graph/UI Designer;2;;;1653;illustrator cc
+113;Decio;Graph/UI Designer;2;;;1654;indesign cc
+113;Decio;Graph/UI Designer;2;;;329;after effects
+113;Decio;Graph/UI Designer;2;;;260;css3
+113;Decio;Graph/UI Designer;2;;;1954;visual design
+113;Decio;Graph/UI Designer;2;;;196;bootstrap
+113;Decio;Graph/UI Designer;2;;;2628;lead designer
+113;Decio;Graph/UI Designer;2;;;195;html5
+113;Decio;Graph/UI Designer;2;;;4066;css - advanced
+113;Decio;Graph/UI Designer;2;;;119;graphic design
+117;Anderson;Full Stack Developer;3;;;142;laravel
+117;Anderson;Full Stack Developer;3;;;196;bootstrap
+117;Anderson;Full Stack Developer;3;;;5095;php
+117;Anderson;Full Stack Developer;3;;;132;javascript
+117;Anderson;Full Stack Developer;3;;;5098;angular.js
+117;Anderson;Full Stack Developer;3;;;195;html5
+117;Anderson;Full Stack Developer;3;;;516;cordova
+117;Anderson;Full Stack Developer;3;;;260;css3
+117;Anderson;Full Stack Developer;3;;;677;ionic framework
+117;Anderson;Full Stack Developer;3;;;738;devops
+117;Anderson;Full Stack Developer;3;;;1452;my sql
+117;Anderson;Full Stack Developer;3;;;3140;foundation
+123;Christian;System Analyst;3;;;196;bootstrap
+123;Christian;System Analyst;3;;;5098;angular.js
+123;Christian;System Analyst;3;;;145;linux
+123;Christian;System Analyst;3;;;626;maven
+123;Christian;System Analyst;3;;;132;javascript
+123;Christian;System Analyst;3;;;301;rest
+123;Christian;System Analyst;3;;;5097;jquery
+123;Christian;System Analyst;3;;;2194;capybara
+123;Christian;System Analyst;3;;;151;spring
+123;Christian;System Analyst;3;;;229;hibernate
+123;Christian;System Analyst;3;;;1253;spring boot
+123;Christian;System Analyst;3;;;129;scrum
+123;Christian;System Analyst;3;;;2195;clean code
+123;Christian;System Analyst;3;;;5099;git
+123;Christian;System Analyst;3;;;237;ireport
+123;Christian;System Analyst;3;;;544;spring mvc
+123;Christian;System Analyst;3;;;260;css3
+123;Christian;System Analyst;3;;;1429;spring data
+123;Christian;System Analyst;3;;;2193;rspec
+123;Christian;System Analyst;3;;;2196;yeoman
+123;Christian;System Analyst;3;;;3862;kubernetes
+123;Christian;System Analyst;3;;;105;ruby on rails
+123;Christian;System Analyst;3;;;1796;java 8
+123;Christian;System Analyst;3;;;108;ruby
+123;Christian;System Analyst;3;;;1077;bower
+123;Christian;System Analyst;3;;;195;html5
+123;Christian;System Analyst;3;;;103;sql
+123;Christian;System Analyst;3;;;5096;java
+123;Christian;System Analyst;3;;;979;gulp
+126;felipe ;Web and Android programmer;3;;;195;html5
+126;felipe ;Web and Android programmer;3;;;99;android
+126;felipe ;Web and Android programmer;3;;;5095;php
+126;felipe ;Web and Android programmer;3;;;5096;java
+126;felipe ;Web and Android programmer;3;;;132;javascript
+139;RAFAEL LUIS;Software Developer;3;;;5097;jquery
+139;RAFAEL LUIS;Software Developer;3;;;2195;clean code
+139;RAFAEL LUIS;Software Developer;3;;;2222;angularjs (basic)
+139;RAFAEL LUIS;Software Developer;3;;;245;swift
+139;RAFAEL LUIS;Software Developer;3;;;71;ios
+139;RAFAEL LUIS;Software Developer;3;;;196;bootstrap
+139;RAFAEL LUIS;Software Developer;3;;;2141;phpstorm
+139;RAFAEL LUIS;Software Developer;3;;;99;android
+139;RAFAEL LUIS;Software Developer;3;;;2672;php (zend framework)
+139;RAFAEL LUIS;Software Developer;3;;;2807;reactivex (rxjava, rxphp, rxswift)
+139;RAFAEL LUIS;Software Developer;3;;;185;.net
+139;RAFAEL LUIS;Software Developer;3;;;5095;php
+139;RAFAEL LUIS;Software Developer;3;;;2953;c#
+139;RAFAEL LUIS;Software Developer;3;;;1194;laravel 5
+139;RAFAEL LUIS;Software Developer;3;;;547;clean architecture
+139;RAFAEL LUIS;Software Developer;3;;;651;objective-c
+139;RAFAEL LUIS;Software Developer;3;;;132;javascript
+140;Thaylise;Social Media, Content & SEO;3;;;406;social media
+140;Thaylise;Social Media, Content & SEO;3;;;3230;link building
+140;Thaylise;Social Media, Content & SEO;3;;;1896;social marketing
+140;Thaylise;Social Media, Content & SEO;3;;;1816;inbound marketing
+140;Thaylise;Social Media, Content & SEO;3;;;411;seo
+140;Thaylise;Social Media, Content & SEO;3;;;1722;social media coordinator
+140;Thaylise;Social Media, Content & SEO;3;;;1815;content marketing
+145;Matheus;iOS developer;4;;;1801;mobile development
+145;Matheus;iOS developer;4;;;250;ios development
+145;Matheus;iOS developer;4;;;71;ios
+150;ANDRE;Frontend Developer;3;;;260;css3
+150;ANDRE;Frontend Developer;3;;;2228;zurb foundation
+150;ANDRE;Frontend Developer;3;;;196;bootstrap
+150;ANDRE;Frontend Developer;3;;;195;html5
+150;ANDRE;Frontend Developer;3;;;5099;git
+150;ANDRE;Frontend Developer;3;;;141;wordpress
+150;ANDRE;Frontend Developer;3;;;132;javascript
+150;ANDRE;Frontend Developer;3;;;5095;php
+150;ANDRE;Frontend Developer;3;;;5097;jquery
+150;ANDRE;Frontend Developer;3;;;5098;angular.js
+156;Emerson;Software engineer;4;;;71;ios
+156;Emerson;Software engineer;4;;;2536;angular-seo
+156;Emerson;Software engineer;4;;;555;visual studio
+156;Emerson;Software engineer;4;;;896;iis
+156;Emerson;Software engineer;4;;;2537;hybrid app
+156;Emerson;Software engineer;4;;;344;node.js
+156;Emerson;Software engineer;4;;;803;linq
+156;Emerson;Software engineer;4;;;2953;c#
+156;Emerson;Software engineer;4;;;677;ionic framework
+156;Emerson;Software engineer;4;;;410;google analytics
+156;Emerson;Software engineer;4;;;185;.net
+156;Emerson;Software engineer;4;;;132;javascript
+156;Emerson;Software engineer;4;;;99;android
+156;Emerson;Software engineer;4;;;5098;angular.js
+156;Emerson;Software engineer;4;;;583;sass
+156;Emerson;Software engineer;4;;;2538;deploy
+156;Emerson;Software engineer;4;;;112;sql server
+157;Lucas;Owner at Brain - Think Innovation;2;;;3976;html/css/less
+157;Lucas;Owner at Brain - Think Innovation;2;;;677;ionic framework
+157;Lucas;Owner at Brain - Think Innovation;2;;;5095;php
+157;Lucas;Owner at Brain - Think Innovation;2;;;976;react.js
+157;Lucas;Owner at Brain - Think Innovation;2;;;132;javascript
+157;Lucas;Owner at Brain - Think Innovation;2;;;5097;jquery
+157;Lucas;Owner at Brain - Think Innovation;2;;;5098;angular.js
+157;Lucas;Owner at Brain - Think Innovation;2;;;1473;mysql database
+157;Lucas;Owner at Brain - Think Innovation;2;;;1194;laravel 5
+157;Lucas;Owner at Brain - Think Innovation;2;;;5099;git
+168;Carlos Eduardo;Front-End Developer;2;;;132;javascript
+168;Carlos Eduardo;Front-End Developer;2;;;579;github
+168;Carlos Eduardo;Front-End Developer;2;;;1461;user interface design
+168;Carlos Eduardo;Front-End Developer;2;;;568;css3 - (sass - stylus)
+168;Carlos Eduardo;Front-End Developer;2;;;515;phonegap
+168;Carlos Eduardo;Front-End Developer;2;;;2662;illustrator cs6
+168;Carlos Eduardo;Front-End Developer;2;;;677;ionic framework
+168;Carlos Eduardo;Front-End Developer;2;;;329;after effects
+168;Carlos Eduardo;Front-End Developer;2;;;976;react.js
+168;Carlos Eduardo;Front-End Developer;2;;;195;html5
+168;Carlos Eduardo;Front-End Developer;2;;;5098;angular.js
+168;Carlos Eduardo;Front-End Developer;2;;;2364;react native
+168;Carlos Eduardo;Front-End Developer;2;;;196;bootstrap
+168;Carlos Eduardo;Front-End Developer;2;;;1446;photoshop cs6
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;719;jira
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;1916;project management professional
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;588;j2ee
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;132;javascript
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;145;linux
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;1310;scrum partitioner
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;579;github
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;1971;fedora
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;377;java android
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;105;ruby on rails
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;734;jenkins
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;1717;redis
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;5098;angular.js
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;1373;project maneger
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;522;postgres
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;677;ionic framework
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;569;javascript - (coffeescript)
+178;Alessandro;Web/Mobile Dev - RoR, Java, Android, JS, Angular;3;;;1972;html, css, sass, jquery, ajax
+185;Carlos Henriuqe;Python Programmer;3;;;145;linux
+185;Carlos Henriuqe;Python Programmer;3;;;907;windows and linux servers
+185;Carlos Henriuqe;Python Programmer;3;;;103;sql
+185;Carlos Henriuqe;Python Programmer;3;;;133;python
+185;Carlos Henriuqe;Python Programmer;3;;;100;tdd
+185;Carlos Henriuqe;Python Programmer;3;;;1336;nginx
+185;Carlos Henriuqe;Python Programmer;3;;;1427;django
+185;Carlos Henriuqe;Python Programmer;3;;;1856;exchange server multi-tenant
+186;Rodrigo;Senior iOS Developer;2;;;245;swift
+186;Rodrigo;Senior iOS Developer;2;;;5298;objective-c
+186;Rodrigo;Senior iOS Developer;2;;;651;objective-c
+186;Rodrigo;Senior iOS Developer;2;;;2556;mobile applications
+186;Rodrigo;Senior iOS Developer;2;;;5096;java
+186;Rodrigo;Senior iOS Developer;2;;;71;ios

@@ -14,8 +14,9 @@ import csv
 app = Flask(__name__, static_url_path = "")
 
 app.databaseBayes = RedisStoreBayes('localhost', 6379, 0)
-app.databaseCompanies = RedisStoreKeyManyValues('localhost', 6379, 1)
+app.databasePositionCompanies = RedisStoreKeyManyValues('localhost', 6379, 1)
 app.databaseCompaniesToCandidates = RedisStoreKeyManyValues('localhost', 6379, 2)
+app.databaseCompanies = RedisStoreKeyManyValues('localhost', 6379, 3)
 
 
 authorized = ['127.0.0.1']
@@ -59,7 +60,7 @@ def learn():
 
     tokenizer = ListTokenizer()
     cl = Classifier(tokenizer, app.databaseBayes)
-    #app.databaseCompanies = RedisStoreCompany('localhost', 6379, 1)
+    #app.databasePositionCompanies = RedisStoreCompany('localhost', 6379, 1)
 
     print('Reading and analysing Jobs'' database.')
     with open('../database/jobs-base.csv', 'r', encoding='utf8') as csvfile:
@@ -67,9 +68,10 @@ def learn():
         #next(csvreader)
 
         for row in csvreader:
-            cl.train(['cd_princ_skill-' + row[6], 'cd_skill-' + row[8]], 'position-' + row[3])
+            cl.train(['cd_skill-' + row[6], 'cd_skill-' + row[8]], 'position-' + row[3])
             #print('position-' + row[3] + ' company-' + row[5])
-            app.databaseCompanies.set('position-' + row[3], 'company-' + row[5])
+            app.databasePositionCompanies.set('position-' + row[3], 'company-' + row[4])
+            app.databaseCompanies.set(row[4], row[5])
 
     #print(databaseEmpresas.values('position-111'))
 
@@ -87,11 +89,13 @@ def classify():
     if not 'default' in request.json:
         request.json['default'] = 'INDIFERENTE'
     cl = NaiveBayes(tokenizer, app.databaseBayes)
+    cl.setthreshold('C# Senior Web Developer', 2.5)
+    cl.setthreshold('Front End Developer', 2.5)
     #if 'thresholds' in request.json:
         #for threshold in thresholds:
             #cl.setthreshold(key(threshold), value(threshold))
 
-    print('Reading candidates''s database to find best options to company ' +  request.json['company'] + '...')
+    print('Reading candidates''s database to find best options to company ' + request.json['company-id'] + '...')
     with open('../database/candidato-base500.csv', 'r', encoding='utf8') as csvfile:
         csvreader = csv.reader(csvfile, delimiter=';', quotechar='"')
         idUser = 0
@@ -106,20 +110,22 @@ def classify():
             if idUser != idUserFor:
                 r = cl.classify(list, request.json['default'])
 
-                companies = app.databaseCompanies.values(r)
+                companies = app.databasePositionCompanies.values(r)
 
                 for comp in companies:
-                    app.databaseCompaniesToCandidates.set(comp, idUser)
+                    app.databaseCompaniesToCandidates.set(comp, idUser + '(' + r + ')')
 
                 idUser = idUserFor
                 list = []
 
             list.append('cd_skill-' + row[6])
 
-    result = app.databaseCompaniesToCandidates.values('company-' + request.json['company'])
+    result = app.databaseCompaniesToCandidates.values('company-' + request.json['company-id'])
     print(result)
 
-    return jsonify( { 'success': True, 'result': result} ), 200
+    companyName = app.databaseCompanies.values(request.json['company-id'])
+
+    return jsonify( { 'success': True, 'company': companyName, 'result': result} ), 200
 
 @app.route('/bayes/v1.0/reset', methods = ['POST'])
 def reset():
@@ -132,8 +138,9 @@ def reset():
     cl = Classifier(ListTokenizer(), app.databaseBayes)
     cl.store.flush()
 
-    app.databaseCompanies.flush()
+    app.databasePositionCompanies.flush()
     app.databaseCompaniesToCandidates.flush()
+    app.databaseCompanies.flush()
 
     return jsonify( { 'success': True } ), 200
 

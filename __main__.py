@@ -10,7 +10,13 @@ def trainws():
 
 def classifyws():
 	print('Searching candidates...')
-	r = requests.post("http://localhost:5000/bayes/v1.0/classify", json={"namespace": 0, "company": "Vanhack"})
+
+	#calling service for Vanhack (company-id = 1)
+	r = requests.post("http://localhost:5000/bayes/v1.0/classify", json={"namespace": 0, "company-id": '1'})
+
+	#calling service for Jostle (company-id = 882)
+	#r = requests.post("http://localhost:5000/bayes/v1.0/classify", json={"namespace": 0, "company-id": '882'})
+
 	print(r.text)
 
 def resetws():
@@ -23,4 +29,4 @@ if __name__ == '__main__':
 	#resetws()
 	trainws()
 	classifyws()
-	print('Tempo de execução: ' + str(datetime.now() - startTime))
+	print('Time spent: ' + str(datetime.now() - startTime))

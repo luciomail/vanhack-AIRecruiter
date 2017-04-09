@@ -15,7 +15,7 @@ def classifyws():
 	r = requests.post("http://localhost:5000/bayes/v1.0/classify", json={"namespace": 0, "company-id": '1'})
 
 	#calling service for Jostle (company-id = 882)
-	#r = requests.post("http://localhost:5000/bayes/v1.0/classify", json={"namespace": 0, "company-id": '882'})
+	#r = requests.post("http://localhost:5000/bayes/v1.0/classify", json={"namespace": 0, "company-id": '881'})
 
 	print(r.text)
 

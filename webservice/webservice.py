@@ -52,7 +52,7 @@ def not_found(error):
 
 @app.route('/bayes/v1.0/learn', methods = ['POST'])
 def learn():
-
+    #print('aprendendo...')
     if request.remote_addr not in authorized:
         abort(401)
     if not request.json:
@@ -68,9 +68,10 @@ def learn():
         #next(csvreader)
 
         for row in csvreader:
-            cl.train(['cd_skill-' + row[6], 'cd_skill-' + row[8]], 'position-' + row[3])
-            #print('position-' + row[3] + ' company-' + row[5])
-            app.databasePositionCompanies.set('position-' + row[3], 'company-' + row[4])
+            cl.train(['cd_skill-' + row[6], 'cd_skill-' + row[8]], 'position-' + row[2] + '(' + row[3] + ')')
+            #print('cd_skill-' + row[6] + ' cd_skill-' + row[8] + ' position-' + row[2] + ' company-' + row[4])
+
+            app.databasePositionCompanies.set('position-' + row[2] + '(' + row[3] + ')', 'company-' + row[4])
             app.databaseCompanies.set(row[4], row[5])
 
     #print(databaseEmpresas.values('position-111'))
@@ -89,8 +90,8 @@ def classify():
     if not 'default' in request.json:
         request.json['default'] = 'INDIFERENTE'
     cl = NaiveBayes(tokenizer, app.databaseBayes)
-    cl.setthreshold('C# Senior Web Developer', 2.5)
-    cl.setthreshold('Front End Developer', 2.5)
+    #cl.setthreshold('C# Senior Web Developer', 2.5)
+    #cl.setthreshold('Front End Developer', 2.5)
     #if 'thresholds' in request.json:
         #for threshold in thresholds:
             #cl.setthreshold(key(threshold), value(threshold))

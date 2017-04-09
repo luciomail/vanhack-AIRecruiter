@@ -1,5 +1,9 @@
 # vanhack-AIRecruiter
-An Application that collect a job's database and try to infer potencial candidates for the job
+An Application that collects two databases (one of jobs and another of candidates) and try to infer potencial candidates for the company.
+We use Nayve Bayes technique. The application learns about jobs' database of companies and sugests candidates for them.
+
+It's possible to change some parts of the algorithm to your necessity or try to use another algorithm of AI.
+
 
 Author: Lucio Ribeiro
 
@@ -49,14 +53,12 @@ Instalation:
 	- Start the WebService
 		- Using PyCharm
 			Open the webservice.py file and Run it (Right button click mouse and Run)
-		- Using prompt command
-			python webservice.py
 
 	- Call the service
 		- Using PyCharm
 			Open the __main__.py file and Run it (Right button click mouse and Run)
-		- Using prompt command
-			python __main__.py
+			In the method "classifyws()" you can change de "company-id" and test with another companies (see jobs-base.csv)
+
 		- Using cURL
 			- Clear the intelligence machine database
 				curl -i -X POST -H "Content-Type: application/json" http://localhost:5000/bayes/v1.0/reset -d '{"namespace": 0}'
@@ -64,6 +66,14 @@ Instalation:
 			-Train intelligence machine
 				curl -i -X POST -H "Content-Type: application/json" http://localhost:5000/bayes/v1.0/learn -d '{"namespace": 0}'
 
-			- Classify the candidates based on their skills and search the ones for a specific company
+			- Classify the candidates based on their skills and search the ones for a specific company (In this database: Company-Id = 1 for Vanhack)
 				curl -i -X POST -H "Content-Type: application/json" http://localhost:5000/bayes/v1.0/classify -d '{"namespace": 0, "company-id": "1"}'
 
+
+
+Some important points:
+- This example (webservice.py) uses the database "database/candidato-base500". It has a few candidates and their skills. It's a small database. (It will take at about 5 minutes)
+
+- If you want to increase the quantity of candidates, you have to change "webservice.py" and call another database file (database/candidato-base13mil ou database/candidato-base). In this case, the time spent will be much longer.
+
+- In this implementation, we did not focus on performance in generating better the csv format of the file or in reading the file.

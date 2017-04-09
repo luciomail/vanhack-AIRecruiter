@@ -72,7 +72,7 @@ Instalation:
 
 
 Some important points:
-- This example (webservice.py) uses the database "database/candidato-base500". It has a few candidates and their skills. It's a small database. (It will take at about 5 minutes)
+- This example (webservice.py) uses the database "database/candidato-base500". It has a few candidates and their skills. It's a small database. (It will take at about 12 minutes)
 
 - If you want to increase the quantity of candidates, you have to change "webservice.py" and call another database file (database/candidato-base13mil ou database/candidato-base). In this case, the time spent will be much longer.
 

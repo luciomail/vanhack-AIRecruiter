@@ -110,10 +110,10 @@ def classify():
 
             if idUser != idUserFor:
                 r = cl.classify(list, request.json['default'])
-
                 companies = app.databasePositionCompanies.values(r)
 
                 for comp in companies:
+                    #print('company: ' + comp + ' candidate: ' +  idUser + '(' + r + ')')
                     app.databaseCompaniesToCandidates.set(comp, idUser + '(' + r + ')')
 
                 idUser = idUserFor

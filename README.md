@@ -77,3 +77,5 @@ Some important points:
 - If you want to increase the quantity of candidates, you have to change "webservice.py" and call another database file (database/candidato-base13mil ou database/candidato-base). In this case, the time spent will be much longer.
 
 - In this implementation, we did not focus on performance in generating better the csv format of the file or in reading the file.
+	- The csv file could be better optimized transforming duplicated rows of the same company and put them in one row with more columms
+	- the method classify() could be refactored
